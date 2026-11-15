@@ -1,15 +1,69 @@
 """
 ClimateOS – Deterministic School-Specific WBGT Heat-Safety Engine (Singapore)
-Gradio Space version (free tier compatible)
+Gradio Space version (ZeroGPU compatible)
 Version: 8.2.0 – Fully deterministic, no LLM
 """
 
 import os
 import re
 import json
+from pathlib import Path
 from datetime import datetime
 from typing import Optional, Dict, Any, Tuple, List
 
+# ---------------------------------------------------------------------------
+# Compatibility Shims (MUST run before 'import spaces' or 'import gradio')
+# ---------------------------------------------------------------------------
+
+# 1. Hugging Face Hub removed HfFolder in recent versions; Gradio 4 requires it.
+import huggingface_hub
+if not hasattr(huggingface_hub, "HfFolder"):
+    class HfFolder:
+        @staticmethod
+        def get_token():
+            try:
+                return huggingface_hub.get_token()
+            except Exception:
+                return os.environ.get("HF_TOKEN")
+        @staticmethod
+        def save_token(token):
+            pass
+        @staticmethod
+        def delete_token():
+            pass
+    huggingface_hub.HfFolder = HfFolder
+
+# 2. Starlette >=0.36 changed Jinja2Templates.TemplateResponse signature from
+#    (name, context) to (request, name, context), which crashes Gradio 4.x
+#    with TypeError: unhashable type: 'dict'.
+import starlette.templating
+_orig_TemplateResponse = starlette.templating.Jinja2Templates.TemplateResponse
+
+def _patched_TemplateResponse(self, *args, **kwargs):
+    if len(args) >= 2 and isinstance(args[0], str) and isinstance(args[1], dict):
+        name = args[0]
+        context = args[1]
+        request = context.get("request")
+        return _orig_TemplateResponse(self, request, name, context, *args[2:], **kwargs)
+    elif len(args) == 1 and isinstance(args[0], str) and "context" in kwargs:
+        name = args[0]
+        context = kwargs.pop("context")
+        request = context.get("request") if isinstance(context, dict) else kwargs.pop("request", None)
+        return _orig_TemplateResponse(self, request, name, context, **kwargs)
+    elif "name" in kwargs and "context" in kwargs and "request" not in kwargs:
+        name = kwargs.pop("name")
+        context = kwargs.pop("context")
+        request = context.get("request") if isinstance(context, dict) else None
+        return _orig_TemplateResponse(self, request, name, context, **kwargs)
+    return _orig_TemplateResponse(self, *args, **kwargs)
+
+starlette.templating.Jinja2Templates.TemplateResponse = _patched_TemplateResponse
+
+# ---------------------------------------------------------------------------
+# ZeroGPU & Framework Imports
+# ---------------------------------------------------------------------------
+
+import spaces
 import numpy as np
 import pandas as pd
 import requests
@@ -18,10 +72,12 @@ import sklearn
 import gradio as gr
 
 # ---------------------------------------------------------------------------
-# Configuration
+# Configuration & Path Setup
 # ---------------------------------------------------------------------------
 
 APP_VERSION = "8.2.0"
+BASE_DIR = Path(__file__).resolve().parent
+
 SEASON_MAP = {
     "northeast_monsoon": [12, 1, 2, 3],
     "inter_monsoon_1": [4, 5],
@@ -31,45 +87,58 @@ SEASON_MAP = {
 
 print(f"[ClimateOS] Starting v{APP_VERSION} (Gradio, deterministic)")
 
+metadata_path = BASE_DIR / "model_metadata.json"
 try:
-    with open("model_metadata.json") as f:
-        model_metadata = json.load(f)
-    trained_sklearn = model_metadata.get("sklearn_version")
-    if trained_sklearn and trained_sklearn != sklearn.__version__:
-        print(f"!!! VERSION MISMATCH !!! Trained {trained_sklearn} vs running {sklearn.__version__}")
+    if metadata_path.exists():
+        with open(metadata_path) as f:
+            model_metadata = json.load(f)
+        trained_sklearn = model_metadata.get("sklearn_version")
+        if trained_sklearn and trained_sklearn != sklearn.__version__:
+            print(f"!!! VERSION MISMATCH !!! Trained {trained_sklearn} vs running {sklearn.__version__}")
+        else:
+            print(f"[ClimateOS] scikit-learn {sklearn.__version__} OK")
     else:
-        print(f"[ClimateOS] scikit-learn {sklearn.__version__} OK")
+        print("[ClimateOS] model_metadata.json not found (skipping version check)")
 except Exception as e:
     print(f"[ClimateOS] model_metadata.json note: {e}")
 
 SEASONAL_EXPERTS: Dict[str, Any] = {}
 for season_name in SEASON_MAP:
-    path = f"residual_model_{season_name}.pkl"
-    if os.path.exists(path):
+    path = BASE_DIR / f"residual_model_{season_name}.pkl"
+    if path.exists():
         try:
             SEASONAL_EXPERTS[season_name] = joblib.load(path)
             print(f"  → Mounted {season_name}")
         except Exception as e:
-            print(f"  → Failed {path}: {e}")
+            print(f"  → Failed loading {path.name}: {e}")
     else:
-        print(f"  → Missing {path}")
+        print(f"  → Missing {path.name}")
 
+station_offsets_path = BASE_DIR / "station_offsets.json"
 try:
-    with open("station_offsets.json") as f:
-        station_offsets = json.load(f)
-    print(f"[ClimateOS] {len(station_offsets)} station offsets loaded")
+    if station_offsets_path.exists():
+        with open(station_offsets_path) as f:
+            station_offsets = json.load(f)
+        print(f"[ClimateOS] {len(station_offsets)} station offsets loaded")
+    else:
+        station_offsets = {}
+        print("[ClimateOS] station_offsets.json missing, using fallback zero-offsets")
 except Exception as e:
     station_offsets = {}
-    print(f"[ClimateOS] station_offsets.json missing: {e}")
+    print(f"[ClimateOS] station_offsets.json error: {e}")
 
-def _load_registry(path: str, label: str) -> dict:
+def _load_registry(filename: str, label: str) -> dict:
+    file_path = BASE_DIR / filename
     try:
-        with open(path) as f:
-            data = json.load(f)
-        print(f"[ClimateOS] {label}: {len(data)} entries")
-        return data
+        if file_path.exists():
+            with open(file_path) as f:
+                data = json.load(f)
+            print(f"[ClimateOS] {label}: {len(data)} entries")
+            return data
+        print(f"[ClimateOS] {filename} missing")
+        return {}
     except Exception as e:
-        print(f"[ClimateOS] {path} missing: {e}")
+        print(f"[ClimateOS] {filename} error: {e}")
         return {}
 
 school_registry = _load_registry("school_registry.json", "MOE schools")
@@ -102,6 +171,10 @@ for slug, entry in international_school_registry.items():
     })
 
 print(f"[ClimateOS] Total searchable locations: {len(ALL_LOCATIONS)}")
+
+# ---------------------------------------------------------------------------
+# Helpers & Physics / ML Evaluation
+# ---------------------------------------------------------------------------
 
 def slugify(name: str) -> str:
     s = name.strip().lower()
@@ -243,9 +316,13 @@ def fetch_live_forecast_metrics(target_hour: int, target_dt: datetime):
     estimated_uv = estimate_future_uv(target_hour, forecast_text)
     return temp, rh, wind, map_numeric_uv_to_who_band(estimated_uv), f"{source}_with_predictive_solar_scaling"
 
+# ---------------------------------------------------------------------------
+# Gradio Handlers
+# ---------------------------------------------------------------------------
+
 def search_locations(query: str):
     if not query or len(query.strip()) < 2:
-        return gr.Dropdown(choices=[], value=None)
+        return gr.update(choices=[], value=None)
 
     q = query.lower().strip()
     matches = []
@@ -255,8 +332,10 @@ def search_locations(query: str):
             matches.append(label)
             if len(matches) >= 25:
                 break
-    return gr.Dropdown(choices=matches, value=matches[0] if matches else None)
+    return gr.update(choices=matches, value=matches[0] if matches else None)
 
+# ZeroGPU requires this decorator to allocate execution slices
+@spaces.GPU(duration=15)
 def run_forecast(selected_label: str, target_hour: int):
     if not selected_label:
         return (
@@ -316,6 +395,10 @@ def run_forecast(selected_label: str, target_hour: int):
         f"{uv_band:.0f}",
         f"{target_hour:02d}:00",
     )
+
+# ---------------------------------------------------------------------------
+# UI Layout
+# ---------------------------------------------------------------------------
 
 with gr.Blocks(
     title="ClimateOS – Singapore School Heat Safety",
@@ -389,5 +472,6 @@ with gr.Blocks(
         outputs=[wbgt_out, risk_out, advisory_out, meta_out, temp_out, rh_out, wind_out, uv_out, hour_out],
     )
 
-demo.queue(default_concurrency_limit=5)
-demo.launch()
+if __name__ == "__main__":
+    # ZeroGPU requires demo.queue() to manage request allocations
+    demo.queue().launch(server_name="0.0.0.0", server_port=7860)
