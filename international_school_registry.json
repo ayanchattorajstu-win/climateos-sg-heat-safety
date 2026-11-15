@@ -1,0 +1,335 @@
+{
+  "australian-international-school-singapore": {
+    "school_name": "AUSTRALIAN INTERNATIONAL SCHOOL SINGAPORE",
+    "lat": 1.34770718525067,
+    "lon": 103.859409321337,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.12,
+    "school_type": "international"
+  },
+  "canadian-international-school-singapore": {
+    "school_name": "CANADIAN INTERNATIONAL SCHOOL SINGAPORE",
+    "lat": 1.345093005660852,
+    "lon": 103.7274292543878,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 1.36,
+    "school_type": "international"
+  },
+  "chatsworth-international-school": {
+    "school_name": "CHATSWORTH INTERNATIONAL SCHOOL",
+    "lat": 1.30254776207717,
+    "lon": 103.8384726570495,
+    "nearest_wbgt_station": "S133",
+    "nearest_station_name": "Cathay Green",
+    "distance_km": 1.15,
+    "school_type": "international"
+  },
+  "dimensions-international-college": {
+    "school_name": "DIMENSIONS INTERNATIONAL COLLEGE",
+    "lat": 1.341418486570165,
+    "lon": 103.7742499387212,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 2.82,
+    "school_type": "international"
+  },
+  "dps-international-school-singapore": {
+    "school_name": "DPS INTERNATIONAL SCHOOL SINGAPORE",
+    "lat": 1.354442810243177,
+    "lon": 103.8834678507581,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 1.57,
+    "school_type": "international"
+  },
+  "dover-court-international-school": {
+    "school_name": "DOVER COURT INTERNATIONAL SCHOOL",
+    "lat": 1.305520391278206,
+    "lon": 103.7790429611307,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 2.88,
+    "school_type": "international"
+  },
+  "dulwich-college-singapore": {
+    "school_name": "DULWICH COLLEGE SINGAPORE",
+    "lat": 1.351481889382939,
+    "lon": 103.7383860153375,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 1.41,
+    "school_type": "international"
+  },
+  "etonhouse-international-school": {
+    "school_name": "ETONHOUSE INTERNATIONAL SCHOOL",
+    "lat": 1.305813917790635,
+    "lon": 103.8897469674585,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 1.29,
+    "school_type": "international"
+  },
+  "furen-international-school": {
+    "school_name": "FUREN INTERNATIONAL SCHOOL",
+    "lat": 1.307553840348019,
+    "lon": 103.8319863516193,
+    "nearest_wbgt_station": "S150",
+    "nearest_station_name": "Evans Road",
+    "distance_km": 2.04,
+    "school_type": "international"
+  },
+  "german-european-school-singapore": {
+    "school_name": "GERMAN EUROPEAN SCHOOL SINGAPORE",
+    "lat": 1.365383180885898,
+    "lon": 103.7731819849346,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 3.53,
+    "school_type": "international"
+  },
+  "global-indian-international-school-singapore": {
+    "school_name": "GLOBAL INDIAN INTERNATIONAL SCHOOL SINGAPORE",
+    "lat": 1.315963005665205,
+    "lon": 103.9213032267421,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 2.32,
+    "school_type": "international"
+  },
+  "hwa-international-school": {
+    "school_name": "HWA INTERNATIONAL SCHOOL",
+    "lat": 1.326189432504335,
+    "lon": 103.8010346150868,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 0.41,
+    "school_type": "international"
+  },
+  "hwa-chong-international-school": {
+    "school_name": "HWA CHONG INTERNATIONAL SCHOOL",
+    "lat": 1.326189432504335,
+    "lon": 103.8010346150868,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 0.41,
+    "school_type": "international"
+  },
+  "international-community-school-singapore": {
+    "school_name": "INTERNATIONAL COMMUNITY SCHOOL SINGAPORE",
+    "lat": 1.307051548793995,
+    "lon": 103.7662934706725,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 4.26,
+    "school_type": "international"
+  },
+  "iss-international-school": {
+    "school_name": "ISS INTERNATIONAL SCHOOL",
+    "lat": 1.302085053558535,
+    "lon": 103.830780569166,
+    "nearest_wbgt_station": "S133",
+    "nearest_station_name": "Cathay Green",
+    "distance_km": 1.95,
+    "school_type": "international"
+  },
+  "international-french-school-singapore": {
+    "school_name": "INTERNATIONAL FRENCH SCHOOL SINGAPORE",
+    "lat": 1.370251895044349,
+    "lon": 103.8665412511292,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 2.19,
+    "school_type": "international"
+  },
+  "invictus-international-school": {
+    "school_name": "INVICTUS INTERNATIONAL SCHOOL",
+    "lat": 1.301393967910597,
+    "lon": 103.8122987832541,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 1.1,
+    "school_type": "international"
+  },
+  "kindle-kids-international-school": {
+    "school_name": "KINDLE KIDS INTERNATIONAL SCHOOL",
+    "lat": 1.296938164368933,
+    "lon": 103.8011199826842,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 0.26,
+    "school_type": "international"
+  },
+  "melbourne-international-school-singapore": {
+    "school_name": "MELBOURNE INTERNATIONAL SCHOOL SINGAPORE",
+    "lat": 1.301647446902933,
+    "lon": 103.8124383708582,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 1.12,
+    "school_type": "international"
+  },
+  "middleton-international-school": {
+    "school_name": "MIDDLETON INTERNATIONAL SCHOOL",
+    "lat": 1.342665219349384,
+    "lon": 103.9424615359006,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 1.31,
+    "school_type": "international"
+  },
+  "nps-international-school-singapore": {
+    "school_name": "NPS INTERNATIONAL SCHOOL SINGAPORE",
+    "lat": 1.356928077025852,
+    "lon": 103.8782794313786,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 1.54,
+    "school_type": "international"
+  },
+  "nexus-international-school-singapore": {
+    "school_name": "NEXUS INTERNATIONAL SCHOOL SINGAPORE",
+    "lat": 1.320803832320556,
+    "lon": 103.8787293921758,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 1.68,
+    "school_type": "international"
+  },
+  "one-world-international-school": {
+    "school_name": "ONE WORLD INTERNATIONAL SCHOOL",
+    "lat": 1.342105014706364,
+    "lon": 103.9624519520716,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 2.93,
+    "school_type": "international"
+  },
+  "overseas-family-school": {
+    "school_name": "OVERSEAS FAMILY SCHOOL",
+    "lat": 1.380394574770279,
+    "lon": 103.9413908020954,
+    "nearest_wbgt_station": "S148",
+    "nearest_station_name": "Pasir Ris Walk",
+    "distance_km": 2.72,
+    "school_type": "international"
+  },
+  "st-francis-methodist-school": {
+    "school_name": "ST FRANCIS METHODIST SCHOOL",
+    "lat": 1.361442081718887,
+    "lon": 103.7678341848558,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 2.79,
+    "school_type": "international"
+  },
+  "singapore-american-school": {
+    "school_name": "SINGAPORE AMERICAN SCHOOL",
+    "lat": 1.42538306783712,
+    "lon": 103.7744991949542,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 1.16,
+    "school_type": "international"
+  },
+  "singapore-korean-international-school": {
+    "school_name": "SINGAPORE KOREAN INTERNATIONAL SCHOOL",
+    "lat": 1.345964354475945,
+    "lon": 103.7904461682714,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 2.88,
+    "school_type": "international"
+  },
+  "sir-manasseh-meyer-international-school": {
+    "school_name": "SIR MANASSEH MEYER INTERNATIONAL SCHOOL",
+    "lat": 1.436694883329535,
+    "lon": 103.8240440513995,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 4.83,
+    "school_type": "international"
+  },
+  "stamford-american-international-school": {
+    "school_name": "STAMFORD AMERICAN INTERNATIONAL SCHOOL",
+    "lat": 1.336974772696142,
+    "lon": 103.8697093885152,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 2.78,
+    "school_type": "international"
+  },
+  "san-yu-adventist-school": {
+    "school_name": "SAN YU ADVENTIST SCHOOL",
+    "lat": 1.321841398755325,
+    "lon": 103.8410428429782,
+    "nearest_wbgt_station": "S145",
+    "nearest_station_name": "MacRitchie Reservoir",
+    "distance_km": 2.36,
+    "school_type": "international"
+  },
+  "the-winstedt-school": {
+    "school_name": "THE WINSTEDT SCHOOL",
+    "lat": 1.316270862668431,
+    "lon": 103.87394725977,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 1.26,
+    "school_type": "international"
+  },
+  "tanglin-trust-school": {
+    "school_name": "TANGLIN TRUST SCHOOL",
+    "lat": 1.296890508662236,
+    "lon": 103.7919915803082,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 1.28,
+    "school_type": "international"
+  },
+  "the-japanese-school-singapore": {
+    "school_name": "THE JAPANESE SCHOOL SINGAPORE",
+    "lat": 1.354229948439456,
+    "lon": 103.9655906562904,
+    "nearest_wbgt_station": "S148",
+    "nearest_station_name": "Pasir Ris Walk",
+    "distance_km": 1.93,
+    "school_type": "international"
+  },
+  "united-world-college-of-south-east-asia": {
+    "school_name": "UNITED WORLD COLLEGE OF SOUTH EAST ASIA",
+    "lat": 1.302979593809857,
+    "lon": 103.7771185727358,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 3.0,
+    "school_type": "international"
+  },
+  "waseda-shibuya-senior-high-school": {
+    "school_name": "WASEDA SHIBUYA SENIOR HIGH SCHOOL",
+    "lat": 1.296469483084486,
+    "lon": 103.7658542854398,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 4.18,
+    "school_type": "international"
+  },
+  "xcl-world-academy": {
+    "school_name": "XCL WORLD ACADEMY",
+    "lat": 1.424178978592625,
+    "lon": 103.8503548922763,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 4.65,
+    "school_type": "international"
+  },
+  "yuvabharathi-international-school": {
+    "school_name": "YUVABHARATHI INTERNATIONAL SCHOOL",
+    "lat": 1.329305040164853,
+    "lon": 103.7233270457622,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 1.02,
+    "school_type": "international"
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "bukit-canberra-sport-centre": {
+    "venue_name": "Bukit Canberra Sport Centre",
+    "lat": 1.4482633618766256,
+    "lon": 103.82276363764352,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 4.94,
+    "source": "sportsg_official"
+  },
+  "bukit-gombak-sport-centre": {
+    "venue_name": "Bukit Gombak Sport Centre",
+    "lat": 1.359799534164251,
+    "lon": 103.7521702228675,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 1.71,
+    "source": "sportsg_official"
+  },
+  "burghley-squash-tennis-centre": {
+    "venue_name": "Burghley Squash & Tennis Centre",
+    "lat": 1.3593908105959505,
+    "lon": 103.86048652626599,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.05,
+    "source": "sportsg_official"
+  },
+  "choa-chu-kang-sport-centre": {
+    "venue_name": "Choa Chu Kang Sport Centre",
+    "lat": 1.3906661702350436,
+    "lon": 103.74792070974966,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 0.19,
+    "source": "sportsg_official"
+  },
+  "clementi-sport-centre": {
+    "venue_name": "Clementi Sport Centre",
+    "lat": 1.311014977393799,
+    "lon": 103.76486141297156,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 4.14,
+    "source": "sportsg_official"
+  },
+  "clementi-stadium": {
+    "venue_name": "Clementi Stadium",
+    "lat": 1.3096748641314226,
+    "lon": 103.76248857606687,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 4.17,
+    "source": "sportsg_official"
+  },
+  "delta-sport-centre": {
+    "venue_name": "Delta Sport Centre",
+    "lat": 1.289182198364078,
+    "lon": 103.81999290603176,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 2.03,
+    "source": "sportsg_official"
+  },
+  "geylang-east-swimming-complex": {
+    "venue_name": "Geylang East Swimming Complex",
+    "lat": 1.3209776742306738,
+    "lon": 103.8876503756433,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 2.0,
+    "source": "sportsg_official"
+  },
+  "heartbeat-bedok-activesg-sport-centre": {
+    "venue_name": "Heartbeat@Bedok ActiveSG Sport Centre",
+    "lat": 1.3269849884844858,
+    "lon": 103.93162062157725,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 0.91,
+    "source": "sportsg_official"
+  },
+  "hougang-sport-centre": {
+    "venue_name": "Hougang Sport Centre",
+    "lat": 1.3705734851443994,
+    "lon": 103.88807173322023,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 0.33,
+    "source": "sportsg_official"
+  },
+  "jalan-besar-sport-centre": {
+    "venue_name": "Jalan Besar Sport Centre",
+    "lat": 1.3108549023465472,
+    "lon": 103.85996171302482,
+    "nearest_wbgt_station": "S133",
+    "nearest_station_name": "Cathay Green",
+    "distance_km": 1.94,
+    "source": "sportsg_official"
+  },
+  "jurong-east-sport-centre": {
+    "venue_name": "Jurong East Sport Centre",
+    "lat": 1.3462156086538188,
+    "lon": 103.72883525712157,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 1.56,
+    "source": "sportsg_official"
+  },
+  "jurong-lake-gardens-activesg-gym-pool": {
+    "venue_name": "Jurong Lake Gardens ActiveSG Gym & Pool",
+    "lat": 1.3305051105672558,
+    "lon": 103.72564386066973,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 1.09,
+    "source": "sportsg_official"
+  },
+  "jurong-west-sport-centre": {
+    "venue_name": "Jurong West Sport Centre",
+    "lat": 1.3384180613103591,
+    "lon": 103.69376890308901,
+    "nearest_wbgt_station": "S132",
+    "nearest_station_name": "Jurong West Street 93",
+    "distance_km": 0.19,
+    "source": "sportsg_official"
+  },
+  "kallang-basin-swimming-complex": {
+    "venue_name": "Kallang Basin Swimming Complex",
+    "lat": 1.3225595109546138,
+    "lon": 103.8724910253327,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 1.97,
+    "source": "sportsg_official"
+  },
+  "activesg-sport-park-bedok-north": {
+    "venue_name": "ActiveSG Sport Park @ Bedok North",
+    "lat": 1.3263807888015886,
+    "lon": 103.93671599726653,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 0.34,
+    "source": "sportsg_official"
+  },
+  "activesg-gym-ang-mo-kio-community-centre": {
+    "venue_name": "ActiveSG Gym@Ang Mo Kio Community Centre",
+    "lat": 1.366833480766686,
+    "lon": 103.8406681303365,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.85,
+    "source": "sportsg_official"
+  },
+  "activesg-gym-enabling-village": {
+    "venue_name": "ActiveSG Gym@Enabling Village",
+    "lat": 1.2866802651118683,
+    "lon": 103.81376634661507,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 1.62,
+    "source": "sportsg_official"
+  },
+  "activesg-gym-fernvale-square": {
+    "venue_name": "ActiveSG Gym@Fernvale Square",
+    "lat": 1.3914220352811288,
+    "lon": 103.87311560406398,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 2.95,
+    "source": "sportsg_official"
+  },
+  "activesg-gym-serangoon-central": {
+    "venue_name": "ActiveSG Gym@Serangoon Central",
+    "lat": 1.352467310019237,
+    "lon": 103.8721027717249,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 2.23,
+    "source": "sportsg_official"
+  },
+  "activesg-gym-toa-payoh": {
+    "venue_name": "ActiveSG Gym@Toa Payoh",
+    "lat": 1.3375050467245735,
+    "lon": 103.84490544717698,
+    "nearest_wbgt_station": "S145",
+    "nearest_station_name": "MacRitchie Reservoir",
+    "distance_km": 1.31,
+    "source": "sportsg_official"
+  },
+  "activesg-gym-toa-payoh-west-community-centre": {
+    "venue_name": "ActiveSG Gym@Toa Payoh West Community Centre",
+    "lat": 1.3353827124598994,
+    "lon": 103.84483087582645,
+    "nearest_wbgt_station": "S145",
+    "nearest_station_name": "MacRitchie Reservoir",
+    "distance_km": 1.41,
+    "source": "sportsg_official"
+  },
+  "activesg-hockey-village-boon-lay": {
+    "venue_name": "ActiveSG Hockey Village @ Boon Lay",
+    "lat": 1.347758544010135,
+    "lon": 103.71117988418051,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 1.43,
+    "source": "sportsg_official"
+  },
+  "activesg-sport-village-jurong-town": {
+    "venue_name": "ActiveSG Sport Village@Jurong Town",
+    "lat": 1.3322292230549448,
+    "lon": 103.72020111860662,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 0.57,
+    "source": "sportsg_official"
+  },
+  "ang-mo-kio-swimming-complex": {
+    "venue_name": "Ang Mo Kio Swimming Complex",
+    "lat": 1.3633022716326315,
+    "lon": 103.84966675435287,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 0.98,
+    "source": "sportsg_official"
+  },
+  "bedok-stadium": {
+    "venue_name": "Bedok Stadium",
+    "lat": 1.32609867478951,
+    "lon": 103.93881876092487,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 0.1,
+    "source": "sportsg_official"
+  },
+  "bishan-sport-centre": {
+    "venue_name": "Bishan Sport Centre",
+    "lat": 1.355282626697445,
+    "lon": 103.85092207834701,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 0.15,
+    "source": "sportsg_official"
+  },
+  "bishan-clubhouse": {
+    "venue_name": "Bishan Clubhouse",
+    "lat": 1.355075019303503,
+    "lon": 103.84999045199592,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 0.25,
+    "source": "sportsg_official"
+  },
+  "bukit-batok-swimming-complex": {
+    "venue_name": "Bukit Batok Swimming Complex",
+    "lat": 1.3443315910338243,
+    "lon": 103.74795422760087,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 0.13,
+    "source": "sportsg_official"
+  },
+  "kallang-sport-centre": {
+    "venue_name": "Kallang Sport Centre",
+    "lat": 1.3056516587554667,
+    "lon": 103.87875565294789,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 0.07,
+    "source": "sportsg_official"
+  },
+  "katong-swimming-complex": {
+    "venue_name": "Katong Swimming Complex",
+    "lat": 1.3021056340821315,
+    "lon": 103.88608187952434,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 0.97,
+    "source": "sportsg_official"
+  },
+  "moe-evans": {
+    "venue_name": "MOE (Evans)",
+    "lat": 1.318461871111596,
+    "lon": 103.81907115968833,
+    "nearest_wbgt_station": "S150",
+    "nearest_station_name": "Evans Road",
+    "distance_km": 0.31,
+    "source": "sportsg_official"
+  },
+  "tampines-sport-centre": {
+    "venue_name": "Tampines Sport Centre",
+    "lat": 1.3534961547181348,
+    "lon": 103.93968359444563,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 0.1,
+    "source": "sportsg_official"
+  },
+  "pasir-ris-sport-centre": {
+    "venue_name": "Pasir Ris Sport Centre",
+    "lat": 1.374448455862134,
+    "lon": 103.95182250671034,
+    "nearest_wbgt_station": "S148",
+    "nearest_station_name": "Pasir Ris Walk",
+    "distance_km": 1.41,
+    "source": "sportsg_official"
+  },
+  "queenstown-sport-centre": {
+    "venue_name": "Queenstown Sport Centre",
+    "lat": 1.2968003322207338,
+    "lon": 103.80238851681172,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 0.12,
+    "source": "sportsg_official"
+  },
+  "sengkang-sport-centre": {
+    "venue_name": "Sengkang Sport Centre",
+    "lat": 1.3954656875297498,
+    "lon": 103.88577712184536,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 2.02,
+    "source": "sportsg_official"
+  },
+  "senja-cashew-sport-centre": {
+    "venue_name": "Senja-Cashew Sport Centre",
+    "lat": 1.3815867900890648,
+    "lon": 103.76465958417046,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 1.94,
+    "source": "sportsg_official"
+  },
+  "serangoon-sport-centre": {
+    "venue_name": "Serangoon Sport Centre",
+    "lat": 1.3570389805738612,
+    "lon": 103.87459386266933,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 1.79,
+    "source": "sportsg_official"
+  },
+  "st-wilfred-sport-centre": {
+    "venue_name": "St. Wilfred Sport Centre",
+    "lat": 1.3252268817315396,
+    "lon": 103.86171901301653,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 2.84,
+    "source": "sportsg_official"
+  },
+  "toa-payoh-sport-centre": {
+    "venue_name": "Toa Payoh Sport Centre",
+    "lat": 1.3306000902370743,
+    "lon": 103.8499867846468,
+    "nearest_wbgt_station": "S145",
+    "nearest_station_name": "MacRitchie Reservoir",
+    "distance_km": 2.18,
+    "source": "sportsg_official"
+  },
+  "woodlands-sc": {
+    "venue_name": "Woodlands SC",
+    "lat": 1.434895378844008,
+    "lon": 103.78030657822161,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 0.13,
+    "source": "sportsg_official"
+  },
+  "yan-kit-playfield": {
+    "venue_name": "Yan Kit Playfield",
+    "lat": 1.2763229085882268,
+    "lon": 103.84219502949637,
+    "nearest_wbgt_station": "S144",
+    "nearest_station_name": "Upper Pickering Street",
+    "distance_km": 1.2,
+    "source": "sportsg_official"
+  },
+  "yio-chu-kang-sport-centre": {
+    "venue_name": "Yio Chu Kang Sport Centre",
+    "lat": 1.3822724383984546,
+    "lon": 103.84576785118301,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 0.06,
+    "source": "sportsg_official"
+  },
+  "yishun-sport-centre": {
+    "venue_name": "Yishun Sport Centre",
+    "lat": 1.4120183648412015,
+    "lon": 103.83117740010454,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 3.68,
+    "source": "sportsg_official"
+  },
+  "yishun-swimming-complex": {
+    "venue_name": "Yishun Swimming Complex",
+    "lat": 1.42406331840536,
+    "lon": 103.8336923671507,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 4.82,
+    "source": "sportsg_official"
+  },
+  "nus-university-sports-centre": {
+    "venue_name": "NUS University Sports Centre",
+    "lat": 1.2966,
+    "lon": 103.7764,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 3.01,
+    "source": "manually_curated_university"
+  },
+  "ntu-sports-recreation-centre": {
+    "venue_name": "NTU Sports & Recreation Centre",
+    "lat": 1.3457,
+    "lon": 103.6836,
+    "nearest_wbgt_station": "S132",
+    "nearest_station_name": "Jurong West Street 93",
+    "distance_km": 1.57,
+    "source": "manually_curated_university"
+  },
+  "smu-fitness-wellness-centre": {
+    "venue_name": "SMU Fitness & Wellness Centre",
+    "lat": 1.2965,
+    "lon": 103.85,
+    "nearest_wbgt_station": "S133",
+    "nearest_station_name": "Cathay Green",
+    "distance_km": 0.31,
+    "source": "manually_curated_university"
+  }
+}

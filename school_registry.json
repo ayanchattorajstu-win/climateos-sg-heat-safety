@@ -1,0 +1,2756 @@
+{
+  "admiralty-secondary-school": {
+    "school_name": "ADMIRALTY SECONDARY SCHOOL",
+    "address": "31 WOODLANDS CRESCENT   ",
+    "lat": 1.445890689109919,
+    "lon": 103.8023981965959,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 2.76
+  },
+  "admiralty-primary-school": {
+    "school_name": "ADMIRALTY PRIMARY SCHOOL",
+    "address": "11 WOODLANDS CIRCLE   ",
+    "lat": 1.442634790331114,
+    "lon": 103.800040119743,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 2.36
+  },
+  "ahmad-ibrahim-secondary-school": {
+    "school_name": "AHMAD IBRAHIM SECONDARY SCHOOL",
+    "address": "751 YISHUN AVENUE 7   ",
+    "lat": 1.436059753688065,
+    "lon": 103.8297186900766,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 5.45
+  },
+  "ahmad-ibrahim-primary-school": {
+    "school_name": "AHMAD IBRAHIM PRIMARY SCHOOL",
+    "address": "10 YISHUN STREET 11   ",
+    "lat": 1.433152715435181,
+    "lon": 103.8329424010853,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 5.8
+  },
+  "ai-tong-school": {
+    "school_name": "AI TONG SCHOOL",
+    "address": "100 Bright Hill Drive   ",
+    "lat": 1.360583433890406,
+    "lon": 103.8330203339857,
+    "nearest_wbgt_station": "S145",
+    "nearest_station_name": "MacRitchie Reservoir",
+    "distance_km": 2.09
+  },
+  "anderson-secondary-school": {
+    "school_name": "ANDERSON SECONDARY SCHOOL",
+    "address": "10 ANG MO KIO STREET 53   ",
+    "lat": 1.374340017011785,
+    "lon": 103.8515541070679,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 1.09
+  },
+  "anderson-serangoon-junior-college": {
+    "school_name": "ANDERSON SERANGOON JUNIOR COLLEGE",
+    "address": "1033 Upper Serangoon Road   ",
+    "lat": 1.365043420024426,
+    "lon": 103.8870388093729,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 0.38
+  },
+  "alexandra-primary-school": {
+    "school_name": "ALEXANDRA PRIMARY SCHOOL",
+    "address": "2A Prince Charles Crescent   ",
+    "lat": 1.291334391613348,
+    "lon": 103.8244246805311,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 2.41
+  },
+  "ang-mo-kio-primary-school": {
+    "school_name": "ANG MO KIO PRIMARY SCHOOL",
+    "address": "20 ANG MO KIO AVENUE 3   ",
+    "lat": 1.369321765846087,
+    "lon": 103.839630858752,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 1.64
+  },
+  "anglican-high-school": {
+    "school_name": "ANGLICAN HIGH SCHOOL",
+    "address": "600 UPPER CHANGI ROAD   ",
+    "lat": 1.330581262051284,
+    "lon": 103.9410825130811,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 0.56
+  },
+  "ang-mo-kio-secondary-school": {
+    "school_name": "ANG MO KIO SECONDARY SCHOOL",
+    "address": "6 ANG MO KIO STREET 22   ",
+    "lat": 1.367337101710713,
+    "lon": 103.8421549736715,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 1.75
+  },
+  "anchor-green-primary-school": {
+    "school_name": "ANCHOR GREEN PRIMARY SCHOOL",
+    "address": "31 Anchorvale Drive   ",
+    "lat": 1.390369986546132,
+    "lon": 103.8871653759329,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 1.53
+  },
+  "anglo-chinese-school-independent": {
+    "school_name": "ANGLO-CHINESE SCHOOL (INDEPENDENT)",
+    "address": "121 DOVER ROAD   ",
+    "lat": 1.303704092577828,
+    "lon": 103.7803634176709,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 2.67
+  },
+  "anglo-chinese-school-barker-road": {
+    "school_name": "ANGLO-CHINESE SCHOOL (BARKER ROAD)",
+    "address": "60 BARKER ROAD   ",
+    "lat": 1.319616491513279,
+    "lon": 103.8357726899882,
+    "nearest_wbgt_station": "S150",
+    "nearest_station_name": "Evans Road",
+    "distance_km": 1.79
+  },
+  "anglo-chinese-school-primary": {
+    "school_name": "ANGLO-CHINESE SCHOOL (PRIMARY)",
+    "address": "50 BARKER ROAD   ",
+    "lat": 1.31837054523522,
+    "lon": 103.8356097323541,
+    "nearest_wbgt_station": "S150",
+    "nearest_station_name": "Evans Road",
+    "distance_km": 1.79
+  },
+  "anglo-chinese-school-junior": {
+    "school_name": "ANGLO-CHINESE SCHOOL (JUNIOR)",
+    "address": "16 WINSTEDT ROAD   ",
+    "lat": 1.309350412749673,
+    "lon": 103.840950265464,
+    "nearest_wbgt_station": "S133",
+    "nearest_station_name": "Cathay Green",
+    "distance_km": 1.45
+  },
+  "assumption-english-school": {
+    "school_name": "ASSUMPTION ENGLISH SCHOOL",
+    "address": "622 UPPER BUKIT TIMAH ROAD   ",
+    "lat": 1.369162952815365,
+    "lon": 103.767937546001,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 3.13
+  },
+  "angsana-primary-school": {
+    "school_name": "ANGSANA PRIMARY SCHOOL",
+    "address": "51 Tampines Street 61   ",
+    "lat": 1.363605905883133,
+    "lon": 103.9389409003993,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 1.09
+  },
+  "beacon-primary-school": {
+    "school_name": "BEACON PRIMARY SCHOOL",
+    "address": "36 Bukit Panjang Ring Road   ",
+    "lat": 1.383949362118238,
+    "lon": 103.7736320229752,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 2.76
+  },
+  "assumption-pathway-school": {
+    "school_name": "ASSUMPTION PATHWAY SCHOOL",
+    "address": "30 Cashew Road   ",
+    "lat": 1.369670704322713,
+    "lon": 103.7659591305809,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 2.94
+  },
+  "bartley-secondary-school": {
+    "school_name": "BARTLEY SECONDARY SCHOOL",
+    "address": "10 JALAN BUNGA RAMPAI   ",
+    "lat": 1.339954155878111,
+    "lon": 103.8828062117046,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 3.18
+  },
+  "bedok-green-secondary-school": {
+    "school_name": "BEDOK GREEN SECONDARY SCHOOL",
+    "address": "360 BEDOK NORTH AVE 3   ",
+    "lat": 1.33451947288432,
+    "lon": 103.9350283833453,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 1.1
+  },
+  "bedok-green-primary-school": {
+    "school_name": "BEDOK GREEN PRIMARY SCHOOL",
+    "address": "1 BEDOK SOUTH AVE 2   ",
+    "lat": 1.32130118793546,
+    "lon": 103.9332995741811,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 0.87
+  },
+  "bedok-view-secondary-school": {
+    "school_name": "BEDOK VIEW SECONDARY SCHOOL",
+    "address": "6 BEDOK SOUTH AVENUE 3   ",
+    "lat": 1.324157040296861,
+    "lon": 103.9437762450238,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 0.49
+  },
+  "beatty-secondary-school": {
+    "school_name": "BEATTY SECONDARY SCHOOL",
+    "address": "1 TOA PAYOH NORTH   ",
+    "lat": 1.341790284928019,
+    "lon": 103.8522808423451,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.45
+  },
+  "bendemeer-primary-school": {
+    "school_name": "BENDEMEER PRIMARY SCHOOL",
+    "address": "91 BENDEMEER ROAD   ",
+    "lat": 1.321812507804748,
+    "lon": 103.8654041676288,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 2.28
+  },
+  "boon-lay-garden-primary-school": {
+    "school_name": "BOON LAY GARDEN PRIMARY SCHOOL",
+    "address": "20 BOON LAY DRIVE   ",
+    "lat": 1.342840137916176,
+    "lon": 103.7128583819372,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 0.89
+  },
+  "bedok-south-secondary-school": {
+    "school_name": "BEDOK SOUTH SECONDARY SCHOOL",
+    "address": "1 JALAN LANGGAR BEDOK   ",
+    "lat": 1.325136551591829,
+    "lon": 103.9509891392604,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 1.26
+  },
+  "blangah-rise-primary-school": {
+    "school_name": "BLANGAH RISE PRIMARY SCHOOL",
+    "address": "91 TELOK BLANGAH HEIGHTS   ",
+    "lat": 1.276120479240372,
+    "lon": 103.808628535239,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 2.39
+  },
+  "boon-lay-secondary-school": {
+    "school_name": "BOON LAY SECONDARY SCHOOL",
+    "address": "11 JURONG WEST STREET 65   ",
+    "lat": 1.34272216334335,
+    "lon": 103.7018914539119,
+    "nearest_wbgt_station": "S132",
+    "nearest_station_name": "Jurong West Street 93",
+    "distance_km": 0.9
+  },
+  "bowen-secondary-school": {
+    "school_name": "BOWEN SECONDARY SCHOOL",
+    "address": "2 LORONG NAPIRI   ",
+    "lat": 1.3703599443621,
+    "lon": 103.877659577677,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 0.97
+  },
+  "bukit-batok-secondary-school": {
+    "school_name": "BUKIT BATOK SECONDARY SCHOOL",
+    "address": "50 BUKIT BATOK WEST AVE 8   ",
+    "lat": 1.348491110790525,
+    "lon": 103.7408737048192,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 1.0
+  },
+  "bukit-panjang-govt-high-school": {
+    "school_name": "BUKIT PANJANG GOVT. HIGH SCHOOL",
+    "address": "7 CHOA CHU KANG AVE 4   ",
+    "lat": 1.382242433600432,
+    "lon": 103.7383612218687,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 1.56
+  },
+  "bukit-panjang-primary-school": {
+    "school_name": "BUKIT PANJANG PRIMARY SCHOOL",
+    "address": "109 CASHEW ROAD   ",
+    "lat": 1.373500899865845,
+    "lon": 103.7694173376537,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 2.9
+  },
+  "bukit-timah-primary-school": {
+    "school_name": "BUKIT TIMAH PRIMARY SCHOOL",
+    "address": "111 Lorong Kismis   ",
+    "lat": 1.33774986225881,
+    "lon": 103.7668553447784,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 2.12
+  },
+  "broadrick-secondary-school": {
+    "school_name": "BROADRICK SECONDARY SCHOOL",
+    "address": "61 DAKOTA CRESCENT   ",
+    "lat": 1.307050611234331,
+    "lon": 103.886917922608,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 0.98
+  },
+  "bukit-view-primary-school": {
+    "school_name": "BUKIT VIEW PRIMARY SCHOOL",
+    "address": "18 BUKIT BATOK STREET 21   ",
+    "lat": 1.345860547886968,
+    "lon": 103.75366641455,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 0.53
+  },
+  "bukit-view-secondary-school": {
+    "school_name": "BUKIT VIEW SECONDARY SCHOOL",
+    "address": "16 BUKIT BATOK STREET 21   ",
+    "lat": 1.345733055429413,
+    "lon": 103.7522265939839,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 0.37
+  },
+  "canberra-primary-school": {
+    "school_name": "CANBERRA PRIMARY SCHOOL",
+    "address": "21 ADMIRALTY DRIVE   ",
+    "lat": 1.45123288382933,
+    "lon": 103.8158894131695,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 4.36
+  },
+  "canberra-secondary-school": {
+    "school_name": "CANBERRA SECONDARY SCHOOL",
+    "address": "51 SEMBAWANG DRIVE   ",
+    "lat": 1.453190863159718,
+    "lon": 103.8142035838178,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 4.3
+  },
+  "canossa-catholic-primary-school": {
+    "school_name": "CANOSSA CATHOLIC PRIMARY SCHOOL",
+    "address": "1 Sallim Road   ",
+    "lat": 1.326644245448396,
+    "lon": 103.8822279648518,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 2.37
+  },
+  "cantonment-primary-school": {
+    "school_name": "CANTONMENT PRIMARY SCHOOL",
+    "address": "1 CANTONMENT CLOSE   ",
+    "lat": 1.275472526232034,
+    "lon": 103.8399626317482,
+    "nearest_wbgt_station": "S144",
+    "nearest_station_name": "Upper Pickering Street",
+    "distance_km": 1.41
+  },
+  "casuarina-primary-school": {
+    "school_name": "CASUARINA PRIMARY SCHOOL",
+    "address": "30 PASIR RIS ST 41   ",
+    "lat": 1.372460639280005,
+    "lon": 103.9570202861143,
+    "nearest_wbgt_station": "S148",
+    "nearest_station_name": "Pasir Ris Walk",
+    "distance_km": 0.81
+  },
+  "catholic-high-school": {
+    "school_name": "CATHOLIC HIGH SCHOOL",
+    "address": "9 BISHAN STREET 22   ",
+    "lat": 1.354525170657562,
+    "lon": 103.8449008048039,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 0.81
+  },
+  "catholic-junior-college": {
+    "school_name": "CATHOLIC JUNIOR COLLEGE",
+    "address": "129 WHITLEY ROAD   ",
+    "lat": 1.324556057832193,
+    "lon": 103.8350288423532,
+    "nearest_wbgt_station": "S150",
+    "nearest_station_name": "Evans Road",
+    "distance_km": 1.74
+  },
+  "cedar-girls-secondary-school": {
+    "school_name": "CEDAR GIRLS' SECONDARY SCHOOL",
+    "address": "1 CEDAR AVENUE   ",
+    "lat": 1.333758002163343,
+    "lon": 103.8739330648855,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 3.15
+  },
+  "cedar-primary-school": {
+    "school_name": "CEDAR PRIMARY SCHOOL",
+    "address": "15 CEDAR AVENUE   ",
+    "lat": 1.335660843562641,
+    "lon": 103.8756200625899,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 3.34
+  },
+  "changkat-primary-school": {
+    "school_name": "CHANGKAT PRIMARY SCHOOL",
+    "address": "11 SIMEI ST 3   ",
+    "lat": 1.340231639516331,
+    "lon": 103.9520801140343,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 2.11
+  },
+  "chij-katong-primary": {
+    "school_name": "CHIJ (KATONG) PRIMARY",
+    "address": "17 MARTIA ROAD   ",
+    "lat": 1.306485352770875,
+    "lon": 103.9111056204962,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 3.66
+  },
+  "chij-kellock": {
+    "school_name": "CHIJ (KELLOCK)",
+    "address": "1 Bukit Teresa Road   ",
+    "lat": 1.275022722964019,
+    "lon": 103.8281575648959,
+    "nearest_wbgt_station": "S144",
+    "nearest_station_name": "Upper Pickering Street",
+    "distance_km": 2.42
+  },
+  "chij-katong-convent": {
+    "school_name": "CHIJ KATONG CONVENT",
+    "address": "346 MARINE TERRACE   ",
+    "lat": 1.306442680348951,
+    "lon": 103.9171443500279,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 3.3
+  },
+  "chij-our-lady-of-good-counsel": {
+    "school_name": "CHIJ OUR LADY OF GOOD COUNSEL",
+    "address": "2C Burghley Drive   ",
+    "lat": 1.357429522696155,
+    "lon": 103.8640093973725,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.34
+  },
+  "chij-our-lady-of-the-nativity": {
+    "school_name": "CHIJ OUR LADY OF THE NATIVITY",
+    "address": "1257 UPPER SERANGOON ROAD   ",
+    "lat": 1.373302971401289,
+    "lon": 103.8975757283031,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 1.03
+  },
+  "chij-our-lady-queen-of-peace": {
+    "school_name": "CHIJ OUR LADY QUEEN OF PEACE",
+    "address": "4 Chestnut Drive   ",
+    "lat": 1.366498657202474,
+    "lon": 103.7674574679633,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 3.17
+  },
+  "chij-primary-toa-payoh": {
+    "school_name": "CHIJ PRIMARY (TOA PAYOH)",
+    "address": "628 Lorong 1 Toa Payoh   ",
+    "lat": 1.332752647115879,
+    "lon": 103.8418472637856,
+    "nearest_wbgt_station": "S145",
+    "nearest_station_name": "MacRitchie Reservoir",
+    "distance_km": 1.34
+  },
+  "chij-secondary-toa-payoh": {
+    "school_name": "CHIJ SECONDARY (TOA PAYOH)",
+    "address": "626 LORONG 1 TOA PAYOH   ",
+    "lat": 1.332460799483043,
+    "lon": 103.8432716250826,
+    "nearest_wbgt_station": "S145",
+    "nearest_station_name": "MacRitchie Reservoir",
+    "distance_km": 1.47
+  },
+  "chij-st-joseph-s-convent": {
+    "school_name": "CHIJ ST. JOSEPH'S CONVENT",
+    "address": "62 SENGKANG EAST WAY   ",
+    "lat": 1.39175222260368,
+    "lon": 103.9024649915428,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 1.11
+  },
+  "chongzheng-primary-school": {
+    "school_name": "CHONGZHENG PRIMARY SCHOOL",
+    "address": "1 TAMPINES STREET 21   ",
+    "lat": 1.350611305685559,
+    "lon": 103.9513172975512,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 1.43
+  },
+  "chij-st-nicholas-girls-school": {
+    "school_name": "CHIJ ST. NICHOLAS GIRLS' SCHOOL",
+    "address": "501 ANG MO KIO STREET 13   ",
+    "lat": 1.373476878789176,
+    "lon": 103.8342532694353,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 1.67
+  },
+  "chongfu-school": {
+    "school_name": "CHONGFU SCHOOL",
+    "address": "170 YISHUN AVENUE 6   ",
+    "lat": 1.438395628970071,
+    "lon": 103.8393091738164,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 6.26
+  },
+  "christ-church-secondary-school": {
+    "school_name": "CHRIST CHURCH SECONDARY SCHOOL",
+    "address": "20 WOODLANDS DRIVE 17   ",
+    "lat": 1.426567809014548,
+    "lon": 103.7934511052413,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 1.63
+  },
+  "chung-cheng-high-school-main": {
+    "school_name": "CHUNG CHENG HIGH SCHOOL (MAIN)",
+    "address": "50 GOODMAN ROAD   ",
+    "lat": 1.305091547530479,
+    "lon": 103.8916532293727,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 1.5
+  },
+  "chung-cheng-high-school-yishun": {
+    "school_name": "CHUNG CHENG HIGH SCHOOL (YISHUN)",
+    "address": "11 YISHUN STREET 61   ",
+    "lat": 1.419226035861755,
+    "lon": 103.8373907828488,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 4.19
+  },
+  "chij-st-theresa-s-convent": {
+    "school_name": "CHIJ ST. THERESA'S CONVENT",
+    "address": "160 LOWER DELTA ROAD   ",
+    "lat": 1.275351775100545,
+    "lon": 103.8224407016418,
+    "nearest_wbgt_station": "S142",
+    "nearest_station_name": "Sentosa Palawan Green",
+    "distance_km": 2.9
+  },
+  "clementi-primary-school": {
+    "school_name": "CLEMENTI PRIMARY SCHOOL",
+    "address": "8 CLEMENTI AVE 3   ",
+    "lat": 1.315063218278743,
+    "lon": 103.7631444936865,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 3.65
+  },
+  "commonwealth-secondary-school": {
+    "school_name": "COMMONWEALTH SECONDARY SCHOOL",
+    "address": "698 WEST COAST ROAD   ",
+    "lat": 1.319203959348025,
+    "lon": 103.745637393049,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 2.86
+  },
+  "clementi-town-secondary-school": {
+    "school_name": "CLEMENTI TOWN SECONDARY SCHOOL",
+    "address": "10 CLEMENTI AVE 3   ",
+    "lat": 1.315539129450737,
+    "lon": 103.7620205985233,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 3.55
+  },
+  "compassvale-primary-school": {
+    "school_name": "COMPASSVALE PRIMARY SCHOOL",
+    "address": "21 COMPASSVALE ST   ",
+    "lat": 1.394445296365664,
+    "lon": 103.8978122299046,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 1.32
+  },
+  "compassvale-secondary-school": {
+    "school_name": "COMPASSVALE SECONDARY SCHOOL",
+    "address": "51 COMPASSVALE CRESCENT   ",
+    "lat": 1.396140839520089,
+    "lon": 103.899847164494,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 1.52
+  },
+  "corporation-primary-school": {
+    "school_name": "CORPORATION PRIMARY SCHOOL",
+    "address": "31 JURONG WEST STREET 24   ",
+    "lat": 1.351485487726621,
+    "lon": 103.7075784049433,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 2.0
+  },
+  "concord-primary-school": {
+    "school_name": "CONCORD PRIMARY SCHOOL",
+    "address": "3 CHOA CHU KANG AVE 4   ",
+    "lat": 1.380265161114646,
+    "lon": 103.7365542956354,
+    "nearest_wbgt_station": "S126",
+    "nearest_station_name": "Old Chua Chu Kang Road",
+    "distance_km": 1.6
+  },
+  "crest-secondary-school": {
+    "school_name": "CREST SECONDARY SCHOOL",
+    "address": "561 JURONG EAST STREET 24   ",
+    "lat": 1.343119804507612,
+    "lon": 103.742628105304,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 0.74
+  },
+  "crescent-girls-school": {
+    "school_name": "CRESCENT GIRLS' SCHOOL",
+    "address": "357 TANGLIN ROAD   ",
+    "lat": 1.293319470771038,
+    "lon": 103.8175444617547,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 1.62
+  },
+  "damai-primary-school": {
+    "school_name": "DAMAI PRIMARY SCHOOL",
+    "address": "52 BEDOK RESERVOIR CRESCENT   ",
+    "lat": 1.335246028297487,
+    "lon": 103.9212864353203,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 2.3
+  },
+  "damai-secondary-school": {
+    "school_name": "DAMAI SECONDARY SCHOOL",
+    "address": "4800 BEDOK RESERVOIR ROAD   ",
+    "lat": 1.33692798510394,
+    "lon": 103.9270916534379,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 1.87
+  },
+  "de-la-salle-school": {
+    "school_name": "DE LA SALLE SCHOOL",
+    "address": "11 Choa Chu Kang St 52   ",
+    "lat": 1.394707829639912,
+    "lon": 103.7432018128304,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 0.86
+  },
+  "deyi-secondary-school": {
+    "school_name": "DEYI SECONDARY SCHOOL",
+    "address": "1 ANG MO KIO STREET 42   ",
+    "lat": 1.365997025677177,
+    "lon": 103.8525457724221,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.24
+  },
+  "dunearn-secondary-school": {
+    "school_name": "DUNEARN SECONDARY SCHOOL",
+    "address": "21 BUKIT BATOK WEST AVENUE 2   ",
+    "lat": 1.363579007928712,
+    "lon": 103.7447210910693,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 2.15
+  },
+  "dunman-high-school": {
+    "school_name": "DUNMAN HIGH SCHOOL",
+    "address": "10 TANJONG RHU ROAD   ",
+    "lat": 1.299962160149622,
+    "lon": 103.8829415598902,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 0.83
+  },
+  "dunman-secondary-school": {
+    "school_name": "DUNMAN SECONDARY SCHOOL",
+    "address": "21 TAMPINES STREET 45   ",
+    "lat": 1.360652583370217,
+    "lon": 103.9562139069653,
+    "nearest_wbgt_station": "S148",
+    "nearest_station_name": "Pasir Ris Walk",
+    "distance_km": 1.5
+  },
+  "east-spring-primary-school": {
+    "school_name": "EAST SPRING PRIMARY SCHOOL",
+    "address": "31 TAMPINES ST 33   ",
+    "lat": 1.352684007463578,
+    "lon": 103.9616768491644,
+    "nearest_wbgt_station": "S148",
+    "nearest_station_name": "Pasir Ris Walk",
+    "distance_km": 2.11
+  },
+  "east-spring-secondary-school": {
+    "school_name": "EAST SPRING SECONDARY SCHOOL",
+    "address": "30 TAMPINES STREET 34   ",
+    "lat": 1.356225089925808,
+    "lon": 103.9606407002974,
+    "nearest_wbgt_station": "S148",
+    "nearest_station_name": "Pasir Ris Walk",
+    "distance_km": 1.74
+  },
+  "edgefield-primary-school": {
+    "school_name": "EDGEFIELD PRIMARY SCHOOL",
+    "address": "41 EDGEFIELD PLAINS   ",
+    "lat": 1.400091395109958,
+    "lon": 103.907847599114,
+    "nearest_wbgt_station": "S143",
+    "nearest_station_name": "Punggol North",
+    "distance_km": 1.2
+  },
+  "edgefield-secondary-school": {
+    "school_name": "EDGEFIELD SECONDARY SCHOOL",
+    "address": "36 PUNGGOL FIELD   ",
+    "lat": 1.400593099818258,
+    "lon": 103.9026873854646,
+    "nearest_wbgt_station": "S143",
+    "nearest_station_name": "Punggol North",
+    "distance_km": 1.13
+  },
+  "elias-park-primary-school": {
+    "school_name": "ELIAS PARK PRIMARY SCHOOL",
+    "address": "11 PASIR RIS STREET 52   ",
+    "lat": 1.375056963158182,
+    "lon": 103.9452894168725,
+    "nearest_wbgt_station": "S148",
+    "nearest_station_name": "Pasir Ris Walk",
+    "distance_km": 2.14
+  },
+  "evergreen-secondary-school": {
+    "school_name": "EVERGREEN SECONDARY SCHOOL",
+    "address": "11 WOODLANDS STREET 83   ",
+    "lat": 1.441491312737382,
+    "lon": 103.794137756171,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 1.72
+  },
+  "endeavour-primary-school": {
+    "school_name": "ENDEAVOUR PRIMARY SCHOOL",
+    "address": "10 Admiralty Link   ",
+    "lat": 1.453881704172645,
+    "lon": 103.8171747016388,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 4.63
+  },
+  "evergreen-primary-school": {
+    "school_name": "EVERGREEN PRIMARY SCHOOL",
+    "address": "31 WOODLANDS CIRCLE   ",
+    "lat": 1.444148354515854,
+    "lon": 103.7945452959214,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 1.92
+  },
+  "farrer-park-primary-school": {
+    "school_name": "FARRER PARK PRIMARY SCHOOL",
+    "address": "2 FARRER PARK ROAD   ",
+    "lat": 1.312368676813718,
+    "lon": 103.8507664029651,
+    "nearest_wbgt_station": "S133",
+    "nearest_station_name": "Cathay Green",
+    "distance_km": 1.6
+  },
+  "fairfield-methodist-school-secondary": {
+    "school_name": "FAIRFIELD METHODIST SCHOOL (SECONDARY)",
+    "address": "102 DOVER ROAD   ",
+    "lat": 1.301633743958234,
+    "lon": 103.7840996471483,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 2.21
+  },
+  "fern-green-primary-school": {
+    "school_name": "FERN GREEN PRIMARY SCHOOL",
+    "address": "70 Fernvale Link   Fern Green Primary School",
+    "lat": 1.397269660504794,
+    "lon": 103.8803303056833,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 2.6
+  },
+  "fengshan-primary-school": {
+    "school_name": "FENGSHAN PRIMARY SCHOOL",
+    "address": "307 BEDOK NORTH ROAD   ",
+    "lat": 1.32980598760785,
+    "lon": 103.9317102930578,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 1.0
+  },
+  "first-toa-payoh-primary-school": {
+    "school_name": "FIRST TOA PAYOH PRIMARY SCHOOL",
+    "address": "7 LORONG 8 TOA PAYOH   ",
+    "lat": 1.34032299499939,
+    "lon": 103.8555299061816,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.65
+  },
+  "fernvale-primary-school": {
+    "school_name": "FERNVALE PRIMARY SCHOOL",
+    "address": "1 Fernvale Lane   ",
+    "lat": 1.390302279637964,
+    "lon": 103.874445458032,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 2.77
+  },
+  "frontier-primary-school": {
+    "school_name": "FRONTIER PRIMARY SCHOOL",
+    "address": "20 Jurong West Street 61   ",
+    "lat": 1.336412987432344,
+    "lon": 103.6997017393095,
+    "nearest_wbgt_station": "S132",
+    "nearest_station_name": "Jurong West Street 93",
+    "distance_km": 0.51
+  },
+  "fuhua-primary-school": {
+    "school_name": "FUHUA PRIMARY SCHOOL",
+    "address": "65 JURONG EAST STREET 13   ",
+    "lat": 1.336597264658171,
+    "lon": 103.7360894818831,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 1.7
+  },
+  "fuchun-primary-school": {
+    "school_name": "FUCHUN PRIMARY SCHOOL",
+    "address": "23 WOODLANDS AVENUE 1   ",
+    "lat": 1.430479908101254,
+    "lon": 103.7781929442981,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 0.46
+  },
+  "gan-eng-seng-school": {
+    "school_name": "GAN ENG SENG SCHOOL",
+    "address": "1 HENDERSON ROAD   ",
+    "lat": 1.289071144857723,
+    "lon": 103.8237336730892,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 2.42
+  },
+  "fuhua-secondary-school": {
+    "school_name": "FUHUA SECONDARY SCHOOL",
+    "address": "5 JURONG WEST STREET 41   ",
+    "lat": 1.347014089137569,
+    "lon": 103.7265208983193,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 1.44
+  },
+  "geylang-methodist-school-secondary": {
+    "school_name": "GEYLANG METHODIST SCHOOL (SECONDARY)",
+    "address": "2 GEYLANG EAST CENTRAL   ",
+    "lat": 1.31764900474602,
+    "lon": 103.8826611293028,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 1.42
+  },
+  "geylang-methodist-school-primary": {
+    "school_name": "GEYLANG METHODIST SCHOOL (PRIMARY)",
+    "address": "4 Geylang East Central   ",
+    "lat": 1.318144168273754,
+    "lon": 103.8836285016008,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 1.51
+  },
+  "greendale-secondary-school": {
+    "school_name": "GREENDALE SECONDARY SCHOOL",
+    "address": "51 EDGEDALE PLAINS   ",
+    "lat": 1.396960199368946,
+    "lon": 103.9117001408394,
+    "nearest_wbgt_station": "S143",
+    "nearest_station_name": "Punggol North",
+    "distance_km": 1.68
+  },
+  "gongshang-primary-school": {
+    "school_name": "GONGSHANG PRIMARY SCHOOL",
+    "address": "1 TAMPINES STREET 42   ",
+    "lat": 1.357116067902936,
+    "lon": 103.9491447972771,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 1.2
+  },
+  "gan-eng-seng-primary-school": {
+    "school_name": "GAN ENG SENG PRIMARY SCHOOL",
+    "address": "100 REDHILL CLOSE   ",
+    "lat": 1.285595164949621,
+    "lon": 103.8155474100632,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 1.85
+  },
+  "greenridge-primary-school": {
+    "school_name": "GREENRIDGE PRIMARY SCHOOL",
+    "address": "11 JELAPANG ROAD   ",
+    "lat": 1.385889219369218,
+    "lon": 103.7677944692579,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 2.08
+  },
+  "guangyang-secondary-school": {
+    "school_name": "GUANGYANG SECONDARY SCHOOL",
+    "address": "8 BISHAN STREET 12   ",
+    "lat": 1.344409435256954,
+    "lon": 103.8502121630782,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.18
+  },
+  "greendale-primary-school": {
+    "school_name": "GREENDALE PRIMARY SCHOOL",
+    "address": "50 Edgedale Plains   ",
+    "lat": 1.39648195114255,
+    "lon": 103.9123346207095,
+    "nearest_wbgt_station": "S143",
+    "nearest_station_name": "Punggol North",
+    "distance_km": 1.76
+  },
+  "greenwood-primary-school": {
+    "school_name": "GREENWOOD PRIMARY SCHOOL",
+    "address": "11 WOODLANDS  DR  62   ",
+    "lat": 1.439899583317834,
+    "lon": 103.8047255873839,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 2.75
+  },
+  "hai-sing-catholic-school": {
+    "school_name": "HAI SING CATHOLIC SCHOOL",
+    "address": "9 Pasir Ris Drive 6   ",
+    "lat": 1.374337170747808,
+    "lon": 103.9545445489052,
+    "nearest_wbgt_station": "S148",
+    "nearest_station_name": "Pasir Ris Walk",
+    "distance_km": 1.12
+  },
+  "hillgrove-secondary-school": {
+    "school_name": "HILLGROVE SECONDARY SCHOOL",
+    "address": "10 BUKIT BATOK STREET 52   ",
+    "lat": 1.352735766159136,
+    "lon": 103.7529864883989,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 0.99
+  },
+  "haig-girls-school": {
+    "school_name": "HAIG GIRLS' SCHOOL",
+    "address": "51 Koon Seng Road   ",
+    "lat": 1.311943442713839,
+    "lon": 103.9029025571947,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 2.83
+  },
+  "holy-innocents-high-school": {
+    "school_name": "HOLY INNOCENTS' HIGH SCHOOL",
+    "address": "1191 UPPER SERANGOON ROAD   ",
+    "lat": 1.371545088222631,
+    "lon": 103.8963988142639,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 1.2
+  },
+  "hong-wen-school": {
+    "school_name": "HONG WEN SCHOOL",
+    "address": "30 TOWNER ROAD   ",
+    "lat": 1.321759999645534,
+    "lon": 103.8576284688807,
+    "nearest_wbgt_station": "S133",
+    "nearest_station_name": "Cathay Green",
+    "distance_km": 2.83
+  },
+  "holy-innocents-primary-school": {
+    "school_name": "HOLY INNOCENTS' PRIMARY SCHOOL",
+    "address": "5 Lorong Low Koon   ",
+    "lat": 1.366938308773486,
+    "lon": 103.8941148997942,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 0.9
+  },
+  "henry-park-primary-school": {
+    "school_name": "HENRY PARK PRIMARY SCHOOL",
+    "address": "1 HOLLAND GROVE ROAD   ",
+    "lat": 1.316676461783479,
+    "lon": 103.7842962277468,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 2.01
+  },
+  "hougang-secondary-school": {
+    "school_name": "HOUGANG SECONDARY SCHOOL",
+    "address": "2 HOUGANG STREET 93   ",
+    "lat": 1.377628795531905,
+    "lon": 103.8825391089642,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 1.11
+  },
+  "hua-yi-secondary-school": {
+    "school_name": "HUA YI SECONDARY SCHOOL",
+    "address": "60 JURONG WEST ST 42   ",
+    "lat": 1.352343654883408,
+    "lon": 103.7218323201689,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 1.75
+  },
+  "huamin-primary-school": {
+    "school_name": "HUAMIN PRIMARY SCHOOL",
+    "address": "21 YISHUN AVENUE 11   ",
+    "lat": 1.426972845129362,
+    "lon": 103.8442402265639,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 4.94
+  },
+  "hwa-chong-institution": {
+    "school_name": "HWA CHONG INSTITUTION",
+    "address": "661 BUKIT TIMAH ROAD   ",
+    "lat": 1.326358062214406,
+    "lon": 103.8032903650219,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 0.48
+  },
+  "jiemin-primary-school": {
+    "school_name": "JIEMIN PRIMARY SCHOOL",
+    "address": "2 YISHUN STREET 71   ",
+    "lat": 1.427688476652264,
+    "lon": 103.8304254900925,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 5.31
+  },
+  "innova-primary-school": {
+    "school_name": "INNOVA PRIMARY SCHOOL",
+    "address": "80 Woodlands Drive 17   ",
+    "lat": 1.42896700684852,
+    "lon": 103.7906075391852,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 1.22
+  },
+  "junyuan-primary-school": {
+    "school_name": "JUNYUAN PRIMARY SCHOOL",
+    "address": "2 Tampines Street 91   ",
+    "lat": 1.347870747667462,
+    "lon": 103.9392217090732,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 0.66
+  },
+  "jing-shan-primary-school": {
+    "school_name": "JING SHAN PRIMARY SCHOOL",
+    "address": "5 ANG MO KIO ST 52   ",
+    "lat": 1.371964457201105,
+    "lon": 103.8517635316804,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 1.33
+  },
+  "junyuan-secondary-school": {
+    "school_name": "JUNYUAN SECONDARY SCHOOL",
+    "address": "11 TAMPINES STREET 84   ",
+    "lat": 1.353613152635378,
+    "lon": 103.9338861658239,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 0.55
+  },
+  "jurong-pioneer-junior-college": {
+    "school_name": "JURONG PIONEER JUNIOR COLLEGE",
+    "address": "21 Teck Whye Walk   ",
+    "lat": 1.384374064107325,
+    "lon": 103.7543746151894,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 0.86
+  },
+  "jurong-west-secondary-school": {
+    "school_name": "JURONG WEST SECONDARY SCHOOL",
+    "address": "61 JURONG WEST STREET 65   ",
+    "lat": 1.335256346883231,
+    "lon": 103.7020989044422,
+    "nearest_wbgt_station": "S132",
+    "nearest_station_name": "Jurong West Street 93",
+    "distance_km": 0.8
+  },
+  "jurong-primary-school": {
+    "school_name": "JURONG PRIMARY SCHOOL",
+    "address": "320 JURONG EAST Street 32   ",
+    "lat": 1.348438596989479,
+    "lon": 103.7331565668572,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 1.82
+  },
+  "jurong-secondary-school": {
+    "school_name": "JURONG SECONDARY SCHOOL",
+    "address": "31 YUAN CHING ROAD   ",
+    "lat": 1.33002032220943,
+    "lon": 103.7239529616472,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 1.0
+  },
+  "jurongville-secondary-school": {
+    "school_name": "JURONGVILLE SECONDARY SCHOOL",
+    "address": "202 JURONG EAST AVENUE 1   ",
+    "lat": 1.351288627702855,
+    "lon": 103.7289077100888,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 1.98
+  },
+  "juying-secondary-school": {
+    "school_name": "JUYING SECONDARY SCHOOL",
+    "address": "33 JURONG WEST STREET 91   ",
+    "lat": 1.338722773413297,
+    "lon": 103.6873102645743,
+    "nearest_wbgt_station": "S132",
+    "nearest_station_name": "Jurong West Street 93",
+    "distance_km": 0.9
+  },
+  "keming-primary-school": {
+    "school_name": "KEMING PRIMARY SCHOOL",
+    "address": "90 BUKIT BATOK EAST AVENUE 6   ",
+    "lat": 1.345528499608757,
+    "lon": 103.7564493993506,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 0.82
+  },
+  "kent-ridge-secondary-school": {
+    "school_name": "KENT RIDGE SECONDARY SCHOOL",
+    "address": "147 WEST COAST ROAD   ",
+    "lat": 1.301227734260989,
+    "lon": 103.7648896175657,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 4.31
+  },
+  "kheng-cheng-school": {
+    "school_name": "KHENG CHENG SCHOOL",
+    "address": "15 LORONG 3 TOA PAYOH   ",
+    "lat": 1.337338193563907,
+    "lon": 103.8471485018234,
+    "nearest_wbgt_station": "S145",
+    "nearest_station_name": "MacRitchie Reservoir",
+    "distance_km": 1.55
+  },
+  "kong-hwa-school": {
+    "school_name": "KONG HWA SCHOOL",
+    "address": "350 GUILLEMARD ROAD   ",
+    "lat": 1.310996740091935,
+    "lon": 103.8883520290672,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 1.27
+  },
+  "kranji-primary-school": {
+    "school_name": "KRANJI PRIMARY SCHOOL",
+    "address": "11 CHOA CHU KANG STREET 54   ",
+    "lat": 1.393560504971042,
+    "lon": 103.7473627209389,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 0.42
+  },
+  "kranji-secondary-school": {
+    "school_name": "KRANJI SECONDARY SCHOOL",
+    "address": "61 CHOA CHU KANG STREET 51   ",
+    "lat": 1.390051098713108,
+    "lon": 103.7411906648444,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 0.94
+  },
+  "kuo-chuan-presbyterian-primary-school": {
+    "school_name": "KUO CHUAN PRESBYTERIAN PRIMARY SCHOOL",
+    "address": "8 BISHAN STREET 13   ",
+    "lat": 1.349398136695366,
+    "lon": 103.8550182333104,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 0.68
+  },
+  "kuo-chuan-presbyterian-secondary-school": {
+    "school_name": "KUO CHUAN PRESBYTERIAN SECONDARY SCHOOL",
+    "address": "10 BISHAN STREET 13   ",
+    "lat": 1.350171299303138,
+    "lon": 103.8549837464155,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 0.6
+  },
+  "lakeside-primary-school": {
+    "school_name": "LAKESIDE PRIMARY SCHOOL",
+    "address": "161 Corporation Walk   ",
+    "lat": 1.338203977042863,
+    "lon": 103.718089546664,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 0.13
+  },
+  "lianhua-primary-school": {
+    "school_name": "LIANHUA PRIMARY SCHOOL",
+    "address": "2 BUKIT BATOK STREET 52   ",
+    "lat": 1.354241911272948,
+    "lon": 103.7541658287112,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 1.2
+  },
+  "loyang-view-secondary-school": {
+    "school_name": "LOYANG VIEW SECONDARY SCHOOL",
+    "address": "12 PASIR RIS STREET 11   ",
+    "lat": 1.366584171672383,
+    "lon": 103.9569445857245,
+    "nearest_wbgt_station": "S148",
+    "nearest_station_name": "Pasir Ris Walk",
+    "distance_km": 0.97
+  },
+  "manjusri-secondary-school": {
+    "school_name": "MANJUSRI SECONDARY SCHOOL",
+    "address": "20 UBI AVENUE 1   ",
+    "lat": 1.32747123084847,
+    "lon": 103.9017199638308,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 3.56
+  },
+  "maris-stella-high-school": {
+    "school_name": "MARIS STELLA HIGH SCHOOL",
+    "address": "25 MOUNT VERNON ROAD   ",
+    "lat": 1.34139181236128,
+    "lon": 103.8777407134485,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 3.14
+  },
+  "marsiling-primary-school": {
+    "school_name": "MARSILING PRIMARY SCHOOL",
+    "address": "31 WOODLANDS CENTRE ROAD   ",
+    "lat": 1.43383904037059,
+    "lon": 103.7736430138458,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 0.79
+  },
+  "maha-bodhi-school": {
+    "school_name": "MAHA BODHI SCHOOL",
+    "address": "10 UBI AVENUE 1   ",
+    "lat": 1.328580238735551,
+    "lon": 103.9013069041567,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 3.61
+  },
+  "mayflower-secondary-school": {
+    "school_name": "MAYFLOWER SECONDARY SCHOOL",
+    "address": "2 ANG MO KIO STREET 21   ",
+    "lat": 1.368272662097225,
+    "lon": 103.8353607268625,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 1.99
+  },
+  "marsiling-secondary-school": {
+    "school_name": "MARSILING SECONDARY SCHOOL",
+    "address": "12 MARSILING ROAD   ",
+    "lat": 1.441141520666637,
+    "lon": 103.7828545614369,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 0.85
+  },
+  "mee-toh-school": {
+    "school_name": "MEE TOH SCHOOL",
+    "address": "21 EDGEDALE PLAINS   ",
+    "lat": 1.394853560818655,
+    "lon": 103.90857257736,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 1.77
+  },
+  "meridian-primary-school": {
+    "school_name": "MERIDIAN PRIMARY SCHOOL",
+    "address": "20 PASIR RIS ST 71   ",
+    "lat": 1.375506770548346,
+    "lon": 103.9349532761547,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 2.45
+  },
+  "meridian-secondary-school": {
+    "school_name": "MERIDIAN SECONDARY SCHOOL",
+    "address": "31 PASIR RIS STREET 51   ",
+    "lat": 1.367246849201311,
+    "lon": 103.9489724836285,
+    "nearest_wbgt_station": "S148",
+    "nearest_station_name": "Pasir Ris Walk",
+    "distance_km": 1.76
+  },
+  "methodist-girls-school-secondary": {
+    "school_name": "METHODIST GIRLS' SCHOOL (SECONDARY)",
+    "address": "11 BLACKMORE DRIVE   ",
+    "lat": 1.332662135996364,
+    "lon": 103.7833821140175,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 2.3
+  },
+  "millennia-institute": {
+    "school_name": "MILLENNIA INSTITUTE",
+    "address": "60 Bukit Batok West Avenue 8   ",
+    "lat": 1.350319392009867,
+    "lon": 103.7415935776833,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 1.04
+  },
+  "methodist-girls-school-primary": {
+    "school_name": "METHODIST GIRLS' SCHOOL (PRIMARY)",
+    "address": "11 Blackmore Drive   ",
+    "lat": 1.332662135996364,
+    "lon": 103.7833821140175,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 2.3
+  },
+  "montfort-junior-school": {
+    "school_name": "MONTFORT JUNIOR SCHOOL",
+    "address": "52 HOUGANG AVENUE 8   ",
+    "lat": 1.373624452340824,
+    "lon": 103.8897414579003,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 0.71
+  },
+  "nan-chiau-high-school": {
+    "school_name": "NAN CHIAU HIGH SCHOOL",
+    "address": "20 ANCHORVALE LINK   ",
+    "lat": 1.388795824983993,
+    "lon": 103.8900044237636,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 1.17
+  },
+  "montfort-secondary-school": {
+    "school_name": "MONTFORT SECONDARY SCHOOL",
+    "address": "50 HOUGANG AVENUE 8   ",
+    "lat": 1.373961316569128,
+    "lon": 103.8889283725771,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 0.7
+  },
+  "nan-hua-primary-school": {
+    "school_name": "NAN HUA PRIMARY SCHOOL",
+    "address": "30 Jalan Lempeng   ",
+    "lat": 1.319201599563877,
+    "lon": 103.7610950657604,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 3.14
+  },
+  "nanyang-girls-high-school": {
+    "school_name": "NANYANG GIRLS' HIGH SCHOOL",
+    "address": "2 LINDEN DRIVE   ",
+    "lat": 1.330583266664794,
+    "lon": 103.8024209799424,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 0.91
+  },
+  "nanyang-primary-school": {
+    "school_name": "NANYANG PRIMARY SCHOOL",
+    "address": "52 KING'S ROAD   ",
+    "lat": 1.321070942411543,
+    "lon": 103.8076818527984,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 0.72
+  },
+  "nanyang-junior-college": {
+    "school_name": "NANYANG JUNIOR COLLEGE",
+    "address": "128 SERANGOON AVENUE 3   ",
+    "lat": 1.35028314949236,
+    "lon": 103.8664987219115,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.67
+  },
+  "naval-base-primary-school": {
+    "school_name": "NAVAL BASE PRIMARY SCHOOL",
+    "address": "7 YISHUN AVE 4   ",
+    "lat": 1.415901956976501,
+    "lon": 103.8391005902065,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 3.79
+  },
+  "national-junior-college": {
+    "school_name": "NATIONAL JUNIOR COLLEGE",
+    "address": "37 HILLCREST ROAD   ",
+    "lat": 1.330292910721726,
+    "lon": 103.804110905425,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 0.92
+  },
+  "nan-chiau-primary-school": {
+    "school_name": "NAN CHIAU PRIMARY SCHOOL",
+    "address": "50 ANCHORVALE LINK   ",
+    "lat": 1.392211499065922,
+    "lon": 103.8911809281854,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 1.35
+  },
+  "new-town-secondary-school": {
+    "school_name": "NEW TOWN SECONDARY SCHOOL",
+    "address": "1020 DOVER ROAD   ",
+    "lat": 1.309775900113593,
+    "lon": 103.7731886342096,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 3.44
+  },
+  "new-town-primary-school": {
+    "school_name": "NEW TOWN PRIMARY SCHOOL",
+    "address": "300 Tanglin Halt Road   ",
+    "lat": 1.299811388840579,
+    "lon": 103.7999648198951,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 0.5
+  },
+  "ngee-ann-secondary-school": {
+    "school_name": "NGEE ANN SECONDARY SCHOOL",
+    "address": "1 TAMPINES STREET 32   ",
+    "lat": 1.354475257558064,
+    "lon": 103.9567472624953,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 1.99
+  },
+  "ngee-ann-primary-school": {
+    "school_name": "NGEE ANN PRIMARY SCHOOL",
+    "address": "344 MARINE TERRACE   ",
+    "lat": 1.305532241804384,
+    "lon": 103.917570005713,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 3.33
+  },
+  "north-spring-primary-school": {
+    "school_name": "NORTH SPRING PRIMARY SCHOOL",
+    "address": "1 RIVERVALE STREET   ",
+    "lat": 1.387061464948597,
+    "lon": 103.9032026830277,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 0.72
+  },
+  "naval-base-secondary-school": {
+    "school_name": "NAVAL BASE SECONDARY SCHOOL",
+    "address": "901 YISHUN RING ROAD   ",
+    "lat": 1.419378816204425,
+    "lon": 103.8310503902469,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 4.43
+  },
+  "northbrooks-secondary-school": {
+    "school_name": "NORTHBROOKS SECONDARY SCHOOL",
+    "address": "585 YISHUN RING ROAD   ",
+    "lat": 1.420812850206535,
+    "lon": 103.8451473325277,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 4.25
+  },
+  "north-vista-primary-school": {
+    "school_name": "NORTH VISTA PRIMARY SCHOOL",
+    "address": "20 Compassvale Link   ",
+    "lat": 1.382550661711514,
+    "lon": 103.8962645754801,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 0.25
+  },
+  "north-vista-secondary-school": {
+    "school_name": "NORTH VISTA SECONDARY SCHOOL",
+    "address": "11 RIVERVALE LINK   ",
+    "lat": 1.381131285358019,
+    "lon": 103.8991888138857,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 0.18
+  },
+  "north-view-primary-school": {
+    "school_name": "NORTH VIEW PRIMARY SCHOOL",
+    "address": "210 YISHUN AVENUE 6   ",
+    "lat": 1.427451594625655,
+    "lon": 103.8483784428927,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 5.0
+  },
+  "northoaks-primary-school": {
+    "school_name": "NORTHOAKS PRIMARY SCHOOL",
+    "address": "61 Sembawang Drive   ",
+    "lat": 1.457328673020936,
+    "lon": 103.8140756111743,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 4.54
+  },
+  "northshore-primary-school": {
+    "school_name": "NORTHSHORE PRIMARY SCHOOL",
+    "address": "30 Northshore Drive   ",
+    "lat": 1.418423220793498,
+    "lon": 103.905147201163,
+    "nearest_wbgt_station": "S143",
+    "nearest_station_name": "Punggol North",
+    "distance_km": 0.88
+  },
+  "nus-high-school-of-mathematics-and-science": {
+    "school_name": "NUS HIGH SCHOOL OF MATHEMATICS AND SCIENCE",
+    "address": "20 Clementi Avenue 1   ",
+    "lat": 1.306006780962482,
+    "lon": 103.7701528077369,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 3.84
+  },
+  "oasis-primary-school": {
+    "school_name": "OASIS PRIMARY SCHOOL",
+    "address": "71 Edgefield Plains   ",
+    "lat": 1.405071847585848,
+    "lon": 103.9112001938345,
+    "nearest_wbgt_station": "S143",
+    "nearest_station_name": "Punggol North",
+    "distance_km": 0.92
+  },
+  "opera-estate-primary-school": {
+    "school_name": "OPERA ESTATE PRIMARY SCHOOL",
+    "address": "48 FIDELIO STREET   ",
+    "lat": 1.319968763777494,
+    "lon": 103.9237526686315,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 1.88
+  },
+  "northland-secondary-school": {
+    "school_name": "NORTHLAND SECONDARY SCHOOL",
+    "address": "3 YISHUN STREET 22   ",
+    "lat": 1.435801833626377,
+    "lon": 103.8401046877841,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 5.96
+  },
+  "outram-secondary-school": {
+    "school_name": "OUTRAM SECONDARY SCHOOL",
+    "address": "48 Anchorvale Crescent   ",
+    "lat": 1.397750204283463,
+    "lon": 103.8912304263114,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 1.87
+  },
+  "palm-view-primary-school": {
+    "school_name": "PALM VIEW PRIMARY SCHOOL",
+    "address": "150 Compassvale Bow   ",
+    "lat": 1.383769230221237,
+    "lon": 103.891354675017,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 0.81
+  },
+  "pasir-ris-crest-secondary-school": {
+    "school_name": "PASIR RIS CREST SECONDARY SCHOOL",
+    "address": "11 PASIR RIS STREET 41   ",
+    "lat": 1.372840601022477,
+    "lon": 103.9597282029184,
+    "nearest_wbgt_station": "S148",
+    "nearest_station_name": "Pasir Ris Walk",
+    "distance_km": 0.52
+  },
+  "park-view-primary-school": {
+    "school_name": "PARK VIEW PRIMARY SCHOOL",
+    "address": "60 PASIR RIS DRIVE 1   ",
+    "lat": 1.37801687647812,
+    "lon": 103.9392021806994,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 2.69
+  },
+  "orchid-park-secondary-school": {
+    "school_name": "ORCHID PARK SECONDARY SCHOOL",
+    "address": "10 YISHUN STREET 81   ",
+    "lat": 1.415320327796348,
+    "lon": 103.8378592413427,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 3.76
+  },
+  "paya-lebar-methodist-girls-school-primary": {
+    "school_name": "PAYA LEBAR METHODIST GIRLS' SCHOOL (PRIMARY)",
+    "address": "298 LORONG AH SOO   ",
+    "lat": 1.350254560089406,
+    "lon": 103.8848468761118,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 2.01
+  },
+  "pasir-ris-primary-school": {
+    "school_name": "PASIR RIS PRIMARY SCHOOL",
+    "address": "5 PASIR RIS STREET 21   ",
+    "lat": 1.372451327220885,
+    "lon": 103.9629226990302,
+    "nearest_wbgt_station": "S148",
+    "nearest_station_name": "Pasir Ris Walk",
+    "distance_km": 0.18
+  },
+  "paya-lebar-methodist-girls-school-secondary": {
+    "school_name": "PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY)",
+    "address": "296 LOR AH SOO   ",
+    "lat": 1.35096755912522,
+    "lon": 103.8851200505879,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 1.93
+  },
+  "pei-chun-public-school": {
+    "school_name": "PEI CHUN PUBLIC SCHOOL",
+    "address": "16 LORONG 7 TOA PAYOH   ",
+    "lat": 1.336778643906726,
+    "lon": 103.8553413102114,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 2.04
+  },
+  "pei-tong-primary-school": {
+    "school_name": "PEI TONG PRIMARY SCHOOL",
+    "address": "15 CLEMENTI AVENUE 5   ",
+    "lat": 1.31666529308968,
+    "lon": 103.7674389995323,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 3.73
+  },
+  "pasir-ris-secondary-school": {
+    "school_name": "PASIR RIS SECONDARY SCHOOL",
+    "address": "390 TAMPINES STREET 21   ",
+    "lat": 1.354227326533977,
+    "lon": 103.9489626262035,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 1.13
+  },
+  "pei-hwa-secondary-school": {
+    "school_name": "PEI HWA SECONDARY SCHOOL",
+    "address": "21 FERNVALE LINK   ",
+    "lat": 1.390375049932347,
+    "lon": 103.8784617453386,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 2.39
+  },
+  "peicai-secondary-school": {
+    "school_name": "PEICAI SECONDARY SCHOOL",
+    "address": "10 SERANGOON AVENUE 4   ",
+    "lat": 1.359515832222158,
+    "lon": 103.8700107490543,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 2.04
+  },
+  "pioneer-primary-school": {
+    "school_name": "PIONEER PRIMARY SCHOOL",
+    "address": "80 TENGAH GARDEN AVENUE   ",
+    "lat": 1.354425929307369,
+    "lon": 103.7327909201966,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 2.11
+  },
+  "peirce-secondary-school": {
+    "school_name": "PEIRCE SECONDARY SCHOOL",
+    "address": "10 SIN MING WALK   ",
+    "lat": 1.366659446538121,
+    "lon": 103.83021606804,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 2.51
+  },
+  "poi-ching-school": {
+    "school_name": "POI CHING SCHOOL",
+    "address": "21 TAMPINES STREET 71   ",
+    "lat": 1.357651218776781,
+    "lon": 103.9352464861737,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 0.58
+  },
+  "princess-elizabeth-primary-school": {
+    "school_name": "PRINCESS ELIZABETH PRIMARY SCHOOL",
+    "address": "30 BUKIT BATOK WEST AVENUE 3   ",
+    "lat": 1.349190988575864,
+    "lon": 103.7407192080109,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 1.05
+  },
+  "presbyterian-high-school": {
+    "school_name": "PRESBYTERIAN HIGH SCHOOL",
+    "address": "5209 ANG MO KIO AVENUE 6   ",
+    "lat": 1.38175437421949,
+    "lon": 103.8423829687938,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 0.43
+  },
+  "peiying-primary-school": {
+    "school_name": "PEIYING PRIMARY SCHOOL",
+    "address": "651 YISHUN RING ROAD   ",
+    "lat": 1.417416275512517,
+    "lon": 103.8301432098749,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 4.27
+  },
+  "punggol-primary-school": {
+    "school_name": "PUNGGOL PRIMARY SCHOOL",
+    "address": "61 HOUGANG AVENUE 8   ",
+    "lat": 1.378200625476397,
+    "lon": 103.8946671595121,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 0.65
+  },
+  "punggol-green-primary-school": {
+    "school_name": "PUNGGOL GREEN PRIMARY SCHOOL",
+    "address": "98 Punggol Walk   ",
+    "lat": 1.401725904505284,
+    "lon": 103.8987942623066,
+    "nearest_wbgt_station": "S143",
+    "nearest_station_name": "Punggol North",
+    "distance_km": 1.19
+  },
+  "qifa-primary-school": {
+    "school_name": "QIFA PRIMARY SCHOOL",
+    "address": "50 WEST COAST AVENUE   ",
+    "lat": 1.313265832680701,
+    "lon": 103.7566291018106,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 3.6
+  },
+  "punggol-secondary-school": {
+    "school_name": "PUNGGOL SECONDARY SCHOOL",
+    "address": "51 EDGEFIELD PLAINS   ",
+    "lat": 1.402057384213998,
+    "lon": 103.9092137064815,
+    "nearest_wbgt_station": "S143",
+    "nearest_station_name": "Punggol North",
+    "distance_km": 1.05
+  },
+  "queenstown-primary-school": {
+    "school_name": "QUEENSTOWN PRIMARY SCHOOL",
+    "address": "310 MARGARET DR   ",
+    "lat": 1.295529055877536,
+    "lon": 103.8076484756559,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 0.49
+  },
+  "qihua-primary-school": {
+    "school_name": "QIHUA PRIMARY SCHOOL",
+    "address": "5 WOODLANDS STREET 81   ",
+    "lat": 1.442035965575938,
+    "lon": 103.7883397620653,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 1.25
+  },
+  "punggol-cove-primary-school": {
+    "school_name": "PUNGGOL COVE PRIMARY SCHOOL",
+    "address": "52 Sumang Walk   ",
+    "lat": 1.411584555624553,
+    "lon": 103.89890448429,
+    "nearest_wbgt_station": "S143",
+    "nearest_station_name": "Punggol North",
+    "distance_km": 0.69
+  },
+  "queenstown-secondary-school": {
+    "school_name": "QUEENSTOWN SECONDARY SCHOOL",
+    "address": "1 STRATHMORE ROAD   ",
+    "lat": 1.293521267746537,
+    "lon": 103.8131909800548,
+    "nearest_wbgt_station": "S138",
+    "nearest_station_name": "Stirling Road",
+    "distance_km": 1.15
+  },
+  "raffles-girls-primary-school": {
+    "school_name": "RAFFLES GIRLS' PRIMARY SCHOOL",
+    "address": "21 Hillcrest Road   ",
+    "lat": 1.330041780682768,
+    "lon": 103.8063978289381,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 1.01
+  },
+  "punggol-view-primary-school": {
+    "school_name": "PUNGGOL VIEW PRIMARY SCHOOL",
+    "address": "9 Punggol Place   ",
+    "lat": 1.405052502260583,
+    "lon": 103.9052990265681,
+    "nearest_wbgt_station": "S143",
+    "nearest_station_name": "Punggol North",
+    "distance_km": 0.6
+  },
+  "raffles-girls-school-secondary": {
+    "school_name": "RAFFLES GIRLS' SCHOOL (SECONDARY)",
+    "address": "2 BRADDELL RISE   ",
+    "lat": 1.342174799322947,
+    "lon": 103.8431340472698,
+    "nearest_wbgt_station": "S145",
+    "nearest_station_name": "MacRitchie Reservoir",
+    "distance_km": 1.03
+  },
+  "raffles-institution": {
+    "school_name": "RAFFLES INSTITUTION",
+    "address": "1 RAFFLES INSTITUTION LANE   ",
+    "lat": 1.34618775847486,
+    "lon": 103.8458751105318,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.19
+  },
+  "regent-secondary-school": {
+    "school_name": "REGENT SECONDARY SCHOOL",
+    "address": "50 CHOA CHU KANG NORTH 5   ",
+    "lat": 1.393279083356832,
+    "lon": 103.7510344115285,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 0.34
+  },
+  "red-swastika-school": {
+    "school_name": "RED SWASTIKA SCHOOL",
+    "address": "350 BEDOK NORTH AVENUE 3   ",
+    "lat": 1.334056595808593,
+    "lon": 103.9343175284833,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 1.1
+  },
+  "river-valley-primary-school": {
+    "school_name": "RIVER VALLEY PRIMARY SCHOOL",
+    "address": "2 RIVER VALLEY GREEN   ",
+    "lat": 1.294183478428372,
+    "lon": 103.8360189415711,
+    "nearest_wbgt_station": "S133",
+    "nearest_station_name": "Cathay Green",
+    "distance_km": 1.39
+  },
+  "river-valley-high-school": {
+    "school_name": "RIVER VALLEY HIGH SCHOOL",
+    "address": "6 BOON LAY AVENUE   ",
+    "lat": 1.344595842237198,
+    "lon": 103.708190688947,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 1.4
+  },
+  "riverside-primary-school": {
+    "school_name": "RIVERSIDE PRIMARY SCHOOL",
+    "address": "110 Woodlands Crescent   ",
+    "lat": 1.447004264937856,
+    "lon": 103.8018890313332,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 2.77
+  },
+  "riverside-secondary-school": {
+    "school_name": "RIVERSIDE SECONDARY SCHOOL",
+    "address": "3 WOODLANDS STREET 81   ",
+    "lat": 1.441101571391271,
+    "lon": 103.7883082364092,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 1.17
+  },
+  "rosyth-school": {
+    "school_name": "ROSYTH SCHOOL",
+    "address": "21 Serangoon North Avenue 4   ",
+    "lat": 1.372858365405815,
+    "lon": 103.8747717039899,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 1.36
+  },
+  "rivervale-primary-school": {
+    "school_name": "RIVERVALE PRIMARY SCHOOL",
+    "address": "80 RIVERVALE DRIVE   ",
+    "lat": 1.393335062982132,
+    "lon": 103.9045452532879,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 1.37
+  },
+  "rulang-primary-school": {
+    "school_name": "RULANG PRIMARY SCHOOL",
+    "address": "6 JURONG WEST STREET 52   ",
+    "lat": 1.346738688890966,
+    "lon": 103.7184579554868,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 1.08
+  },
+  "sembawang-primary-school": {
+    "school_name": "SEMBAWANG PRIMARY SCHOOL",
+    "address": "10 SEMBAWANG DRIVE   ",
+    "lat": 1.445745309602403,
+    "lon": 103.8211526762143,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 4.69
+  },
+  "sembawang-secondary-school": {
+    "school_name": "SEMBAWANG SECONDARY SCHOOL",
+    "address": "30 SEMBAWANG CRESCENT   ",
+    "lat": 1.374390977524873,
+    "lon": 103.8272281832222,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 2.3
+  },
+  "seng-kang-secondary-school": {
+    "school_name": "SENG KANG SECONDARY SCHOOL",
+    "address": "10 COMPASSVALE LANE   ",
+    "lat": 1.38659683143747,
+    "lon": 103.898365036709,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 0.45
+  },
+  "seng-kang-primary-school": {
+    "school_name": "SENG KANG PRIMARY SCHOOL",
+    "address": "21 COMPASSVALE WALK   ",
+    "lat": 1.389250447782248,
+    "lon": 103.8995278792292,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 0.75
+  },
+  "sengkang-green-primary-school": {
+    "school_name": "SENGKANG GREEN PRIMARY SCHOOL",
+    "address": "15 Fernvale Road   ",
+    "lat": 1.392540093081118,
+    "lon": 103.8749848695505,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 2.84
+  },
+  "serangoon-secondary-school": {
+    "school_name": "SERANGOON SECONDARY SCHOOL",
+    "address": "11 UPPER SERANGOON VIEW   ",
+    "lat": 1.374655388274423,
+    "lon": 103.902138740699,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 0.97
+  },
+  "serangoon-garden-secondary-school": {
+    "school_name": "SERANGOON GARDEN SECONDARY SCHOOL",
+    "address": "21 SERANGOON NORTH AVENUE 1   ",
+    "lat": 1.369325704909471,
+    "lon": 103.8692703014753,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 1.88
+  },
+  "si-ling-primary-school": {
+    "school_name": "SI LING PRIMARY SCHOOL",
+    "address": "61 WOODLANDS AVENUE 1   ",
+    "lat": 1.432409357325257,
+    "lon": 103.786035065192,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 0.61
+  },
+  "shuqun-primary-school": {
+    "school_name": "SHUQUN PRIMARY SCHOOL",
+    "address": "8 JURONG WEST STREET 51   ",
+    "lat": 1.346869672590671,
+    "lon": 103.7215593872028,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 1.16
+  },
+  "south-view-primary-school": {
+    "school_name": "SOUTH VIEW PRIMARY SCHOOL",
+    "address": "6 Choa Chu Kang Central   ",
+    "lat": 1.381431239876985,
+    "lon": 103.7471536709992,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 1.05
+  },
+  "singapore-chinese-girls-school": {
+    "school_name": "SINGAPORE CHINESE GIRLS' SCHOOL",
+    "address": "190 DUNEARN ROAD   ",
+    "lat": 1.320634083518409,
+    "lon": 103.8281649669527,
+    "nearest_wbgt_station": "S150",
+    "nearest_station_name": "Evans Road",
+    "distance_km": 0.94
+  },
+  "singapore-chinese-girls-primary-school": {
+    "school_name": "SINGAPORE CHINESE GIRLS' PRIMARY SCHOOL",
+    "address": "190 DUNEARN ROAD   ",
+    "lat": 1.320634083518409,
+    "lon": 103.8281649669527,
+    "nearest_wbgt_station": "S150",
+    "nearest_station_name": "Evans Road",
+    "distance_km": 0.94
+  },
+  "spectra-secondary-school": {
+    "school_name": "SPECTRA SECONDARY SCHOOL",
+    "address": "1 WOODLANDS DRIVE 64   ",
+    "lat": 1.4370375078996,
+    "lon": 103.8041004674866,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 2.62
+  },
+  "st-andrew-s-junior-college": {
+    "school_name": "ST ANDREW'S JUNIOR COLLEGE",
+    "address": "5 Sorby Adams Drive   ",
+    "lat": 1.333065157409554,
+    "lon": 103.8635763770552,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 2.73
+  },
+  "springdale-primary-school": {
+    "school_name": "SPRINGDALE PRIMARY SCHOOL",
+    "address": "71 Anchorvale Link   ",
+    "lat": 1.395285444633771,
+    "lon": 103.8894164135011,
+    "nearest_wbgt_station": "S184",
+    "nearest_station_name": "Sengkang East Avenue",
+    "distance_km": 1.74
+  },
+  "singapore-sports-school": {
+    "school_name": "SINGAPORE SPORTS SCHOOL",
+    "address": "1 Champions Way   ",
+    "lat": 1.426411405563434,
+    "lon": 103.7894447939508,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 1.27
+  },
+  "st-andrew-s-school-junior": {
+    "school_name": "ST ANDREW'S SCHOOL (JUNIOR)",
+    "address": "2 FRANCIS THOMAS DRIVE   ",
+    "lat": 1.331402553088687,
+    "lon": 103.8651171343843,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 2.97
+  },
+  "st-andrew-s-school-secondary": {
+    "school_name": "ST ANDREW'S SCHOOL (SECONDARY)",
+    "address": "15 FRANCIS THOMAS DRIVE   ",
+    "lat": 1.330693609680754,
+    "lon": 103.8662491385613,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 3.08
+  },
+  "springfield-secondary-school": {
+    "school_name": "SPRINGFIELD SECONDARY SCHOOL",
+    "address": "30 TAMPINES AVENUE 8   ",
+    "lat": 1.349573034714754,
+    "lon": 103.9303544606924,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 1.05
+  },
+  "st-gabriel-s-primary-school": {
+    "school_name": "ST. GABRIEL'S PRIMARY SCHOOL",
+    "address": "220 Lorong Chuan   ",
+    "lat": 1.349307667955572,
+    "lon": 103.8623098999852,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.28
+  },
+  "st-anthony-s-primary-school": {
+    "school_name": "ST. ANTHONY'S PRIMARY SCHOOL",
+    "address": "30 Bukit Batok St 32   ",
+    "lat": 1.364119484758337,
+    "lon": 103.7492519190488,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 2.16
+  },
+  "st-gabriel-s-secondary-school": {
+    "school_name": "ST. GABRIEL'S SECONDARY SCHOOL",
+    "address": "24 SERANGOON AVENUE 1   ",
+    "lat": 1.366082932147903,
+    "lon": 103.8732052536627,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 1.46
+  },
+  "st-hilda-s-secondary-school": {
+    "school_name": "ST. HILDA'S SECONDARY SCHOOL",
+    "address": "2 TAMPINES STREET 82   ",
+    "lat": 1.349739223853801,
+    "lon": 103.9376080321475,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 0.47
+  },
+  "st-hilda-s-primary-school": {
+    "school_name": "ST. HILDA'S PRIMARY SCHOOL",
+    "address": "2 Tampines Ave 3   ",
+    "lat": 1.349679789698374,
+    "lon": 103.937016363397,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 0.5
+  },
+  "st-anthony-s-canossian-secondary-school": {
+    "school_name": "ST. ANTHONY'S CANOSSIAN SECONDARY SCHOOL",
+    "address": "1600 BEDOK NORTH AVENUE 4   ",
+    "lat": 1.334663134988562,
+    "lon": 103.9419771669314,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 1.02
+  },
+  "st-joseph-s-institution": {
+    "school_name": "ST. JOSEPH'S INSTITUTION",
+    "address": "38 MALCOLM ROAD   ",
+    "lat": 1.323653134901521,
+    "lon": 103.8284989749843,
+    "nearest_wbgt_station": "S150",
+    "nearest_station_name": "Evans Road",
+    "distance_km": 1.01
+  },
+  "st-joseph-s-institution-junior": {
+    "school_name": "ST. JOSEPH'S INSTITUTION JUNIOR",
+    "address": "3 ESSEX ROAD   ",
+    "lat": 1.317814761185532,
+    "lon": 103.8456333345214,
+    "nearest_wbgt_station": "S133",
+    "nearest_station_name": "Cathay Green",
+    "distance_km": 2.19
+  },
+  "st-patrick-s-school": {
+    "school_name": "ST. PATRICK'S SCHOOL",
+    "address": "490 EAST COAST ROAD   ",
+    "lat": 1.314979239554828,
+    "lon": 103.9429855105364,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 1.25
+  },
+  "st-margaret-s-school-secondary": {
+    "school_name": "ST. MARGARET'S SCHOOL (SECONDARY)",
+    "address": "111 FARRER ROAD   ",
+    "lat": 1.319774640505861,
+    "lon": 103.8096022154017,
+    "nearest_wbgt_station": "S187",
+    "nearest_station_name": "Bukit Timah(West)",
+    "distance_km": 0.96
+  },
+  "swiss-cottage-secondary-school": {
+    "school_name": "SWISS COTTAGE SECONDARY SCHOOL",
+    "address": "3 BUKIT BATOK STREET 34   ",
+    "lat": 1.364717426974759,
+    "lon": 103.750396136688,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 2.23
+  },
+  "st-stephen-s-school": {
+    "school_name": "ST. STEPHEN'S SCHOOL",
+    "address": "20 SIGLAP VIEW   ",
+    "lat": 1.318789972951361,
+    "lon": 103.9172581295975,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 2.61
+  },
+  "st-margaret-s-school-primary": {
+    "school_name": "ST. MARGARET'S SCHOOL (PRIMARY)",
+    "address": "136 Sophia Road   ",
+    "lat": 1.304144073583324,
+    "lon": 103.845820266438,
+    "nearest_wbgt_station": "S133",
+    "nearest_station_name": "Cathay Green",
+    "distance_km": 0.69
+  },
+  "tampines-secondary-school": {
+    "school_name": "TAMPINES SECONDARY SCHOOL",
+    "address": "252 TAMPINES ST 12   ",
+    "lat": 1.34926094811197,
+    "lon": 103.9442637095066,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 0.79
+  },
+  "tanjong-katong-girls-school": {
+    "school_name": "TANJONG KATONG GIRLS' SCHOOL",
+    "address": "20 Dunman Lane   ",
+    "lat": 1.307562618439414,
+    "lon": 103.8961072045417,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 2.0
+  },
+  "tanjong-katong-primary-school": {
+    "school_name": "TANJONG KATONG PRIMARY SCHOOL",
+    "address": "10 Seraya Road   ",
+    "lat": 1.304984890448227,
+    "lon": 103.8999999654065,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 2.43
+  },
+  "tanjong-katong-secondary-school": {
+    "school_name": "TANJONG KATONG SECONDARY SCHOOL",
+    "address": "130 HAIG ROAD   ",
+    "lat": 1.308735159553417,
+    "lon": 103.8972251961986,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 2.14
+  },
+  "tampines-north-primary-school": {
+    "school_name": "TAMPINES NORTH PRIMARY SCHOOL",
+    "address": "30 TAMPINES AVENUE 9   ",
+    "lat": 1.360487860256083,
+    "lon": 103.9487689005172,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 1.33
+  },
+  "tao-nan-school": {
+    "school_name": "TAO NAN SCHOOL",
+    "address": "49 MARINE CRESCENT   ",
+    "lat": 1.305285286873217,
+    "lon": 103.9115531523253,
+    "nearest_wbgt_station": "S127",
+    "nearest_station_name": "Stadium Road",
+    "distance_km": 3.71
+  },
+  "teck-whye-primary-school": {
+    "school_name": "TECK WHYE PRIMARY SCHOOL",
+    "address": "11 TECK WHYE WALK   ",
+    "lat": 1.383886604693974,
+    "lon": 103.7539245585861,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 0.88
+  },
+  "teck-ghee-primary-school": {
+    "school_name": "TECK GHEE PRIMARY SCHOOL",
+    "address": "1 ANG MO KIO STREET 32   ",
+    "lat": 1.365650185469026,
+    "lon": 103.8510098004526,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.21
+  },
+  "temasek-primary-school": {
+    "school_name": "TEMASEK PRIMARY SCHOOL",
+    "address": "501 BEDOK SOUTH AVE 3   ",
+    "lat": 1.317203416630649,
+    "lon": 103.9457594378398,
+    "nearest_wbgt_station": "S910",
+    "nearest_station_name": "Outward Bound Singapore(East Coast)",
+    "distance_km": 1.13
+  },
+  "telok-kurau-primary-school": {
+    "school_name": "TELOK KURAU PRIMARY SCHOOL",
+    "address": "50 BEDOK RESERVOIR RD   ",
+    "lat": 1.331096110019328,
+    "lon": 103.9110053458552,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 3.24
+  },
+  "townsville-primary-school": {
+    "school_name": "TOWNSVILLE PRIMARY SCHOOL",
+    "address": "3 ANG MO KIO AVE 10   ",
+    "lat": 1.359946494775676,
+    "lon": 103.8537689947749,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 0.59
+  },
+  "temasek-secondary-school": {
+    "school_name": "TEMASEK SECONDARY SCHOOL",
+    "address": "600 UPPER EAST COAST ROAD   ",
+    "lat": 1.315916731506153,
+    "lon": 103.9475641120216,
+    "nearest_wbgt_station": "S910",
+    "nearest_station_name": "Outward Bound Singapore(East Coast)",
+    "distance_km": 0.88
+  },
+  "unity-primary-school": {
+    "school_name": "UNITY PRIMARY SCHOOL",
+    "address": "21 CHOA CHU KANG CRESCENT   ",
+    "lat": 1.402783032190362,
+    "lon": 103.7468012339729,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 1.4
+  },
+  "unity-secondary-school": {
+    "school_name": "UNITY SECONDARY SCHOOL",
+    "address": "20 CHOA CHU KANG STREET 62   ",
+    "lat": 1.400015241194411,
+    "lon": 103.7460209148292,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 1.13
+  },
+  "valour-primary-school": {
+    "school_name": "VALOUR PRIMARY SCHOOL",
+    "address": "49 Punggol Central   ",
+    "lat": 1.407441681637779,
+    "lon": 103.8987621736618,
+    "nearest_wbgt_station": "S143",
+    "nearest_station_name": "Punggol North",
+    "distance_km": 0.77
+  },
+  "victoria-junior-college": {
+    "school_name": "VICTORIA JUNIOR COLLEGE",
+    "address": "20 MARINE VISTA   ",
+    "lat": 1.306701741774799,
+    "lon": 103.9199827041485,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 3.05
+  },
+  "victoria-school": {
+    "school_name": "VICTORIA SCHOOL",
+    "address": "2 SIGLAP LINK   ",
+    "lat": 1.308713027075099,
+    "lon": 103.9279809666388,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 2.3
+  },
+  "waterway-primary-school": {
+    "school_name": "WATERWAY PRIMARY SCHOOL",
+    "address": "70 Punggol Drive   ",
+    "lat": 1.398892612263155,
+    "lon": 103.9185859245818,
+    "nearest_wbgt_station": "S143",
+    "nearest_station_name": "Punggol North",
+    "distance_km": 1.99
+  },
+  "wellington-primary-school": {
+    "school_name": "WELLINGTON PRIMARY SCHOOL",
+    "address": "10 WELLINGTON CIRCLE   ",
+    "lat": 1.451685176147782,
+    "lon": 103.8225162080872,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 5.05
+  },
+  "west-spring-secondary-school": {
+    "school_name": "WEST SPRING SECONDARY SCHOOL",
+    "address": "61 SENJA  ROAD   ",
+    "lat": 1.387822833037825,
+    "lon": 103.7601288401548,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 1.2
+  },
+  "west-spring-primary-school": {
+    "school_name": "WEST SPRING PRIMARY SCHOOL",
+    "address": "60 Bukit Panjang Ring Road   ",
+    "lat": 1.389179718084546,
+    "lon": 103.7663977228801,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 1.87
+  },
+  "westwood-secondary-school": {
+    "school_name": "WESTWOOD SECONDARY SCHOOL",
+    "address": "11 JURONG WEST STREET 25   ",
+    "lat": 1.353736985109939,
+    "lon": 103.7017721021389,
+    "nearest_wbgt_station": "S146",
+    "nearest_station_name": "Jalan Bahar",
+    "distance_km": 1.66
+  },
+  "west-view-primary-school": {
+    "school_name": "WEST VIEW PRIMARY SCHOOL",
+    "address": "31 SENJA ROAD   ",
+    "lat": 1.383785465462291,
+    "lon": 103.7602734322579,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 1.4
+  },
+  "west-grove-primary-school": {
+    "school_name": "WEST GROVE PRIMARY SCHOOL",
+    "address": "1 JURONG WEST ST 72   ",
+    "lat": 1.344712117689155,
+    "lon": 103.6989642129882,
+    "nearest_wbgt_station": "S132",
+    "nearest_station_name": "Jurong West Street 93",
+    "distance_km": 0.86
+  },
+  "woodgrove-primary-school": {
+    "school_name": "WOODGROVE PRIMARY SCHOOL",
+    "address": "2 WOODLANDS DRIVE 14   ",
+    "lat": 1.432736207250495,
+    "lon": 103.7902303139194,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 1.06
+  },
+  "whitley-secondary-school": {
+    "school_name": "WHITLEY SECONDARY SCHOOL",
+    "address": "30 BISHAN STREET 24   ",
+    "lat": 1.355052084806503,
+    "lon": 103.8425523781361,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.07
+  },
+  "woodlands-primary-school": {
+    "school_name": "WOODLANDS PRIMARY SCHOOL",
+    "address": "10 WOODLANDS DRIVE 50   ",
+    "lat": 1.436582707202003,
+    "lon": 103.791791282236,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 1.27
+  },
+  "woodgrove-secondary-school": {
+    "school_name": "WOODGROVE SECONDARY SCHOOL",
+    "address": "3 WOODLANDS AVENUE 6   ",
+    "lat": 1.440438327774584,
+    "lon": 103.8015851148591,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 2.43
+  },
+  "woodlands-ring-secondary-school": {
+    "school_name": "WOODLANDS RING SECONDARY SCHOOL",
+    "address": "21 WOODLANDS AVENUE 1   ",
+    "lat": 1.43070452883799,
+    "lon": 103.7776257485383,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 0.49
+  },
+  "woodlands-ring-primary-school": {
+    "school_name": "WOODLANDS RING PRIMARY SCHOOL",
+    "address": "11 WOODLANDS RING ROAD   ",
+    "lat": 1.434851793802362,
+    "lon": 103.7974143435101,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 1.86
+  },
+  "woodlands-secondary-school": {
+    "school_name": "WOODLANDS SECONDARY SCHOOL",
+    "address": "11 MARSILING ROAD   ",
+    "lat": 1.440836491613672,
+    "lon": 103.7826173207556,
+    "nearest_wbgt_station": "S125",
+    "nearest_station_name": "Woodlands Street 13",
+    "distance_km": 0.81
+  },
+  "xingnan-primary-school": {
+    "school_name": "XINGNAN PRIMARY SCHOOL",
+    "address": "5 JURONG WEST STREET 91   ",
+    "lat": 1.342706396692246,
+    "lon": 103.6875884786809,
+    "nearest_wbgt_station": "S132",
+    "nearest_station_name": "Jurong West Street 93",
+    "distance_km": 1.02
+  },
+  "xinghua-primary-school": {
+    "school_name": "XINGHUA PRIMARY SCHOOL",
+    "address": "45 HOUGANG AVENUE 1   ",
+    "lat": 1.35799653782465,
+    "lon": 103.8902163554591,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 1.24
+  },
+  "xishan-primary-school": {
+    "school_name": "XISHAN PRIMARY SCHOOL",
+    "address": "8 YISHUN STREET 21   ",
+    "lat": 1.433471869250645,
+    "lon": 103.8377553194475,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 5.74
+  },
+  "xinmin-primary-school": {
+    "school_name": "XINMIN PRIMARY SCHOOL",
+    "address": "9 HOUGANG AVENUE 8   ",
+    "lat": 1.371767983174687,
+    "lon": 103.8828099178501,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 0.53
+  },
+  "xinmin-secondary-school": {
+    "school_name": "XINMIN SECONDARY SCHOOL",
+    "address": "11 HOUGANG AVENUE 8   ",
+    "lat": 1.372558847000039,
+    "lon": 103.8830516138498,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 0.58
+  },
+  "yio-chu-kang-secondary-school": {
+    "school_name": "YIO CHU KANG SECONDARY SCHOOL",
+    "address": "3063 ANG MO KIO AVENUE 5   ",
+    "lat": 1.377975977409265,
+    "lon": 103.8421369635195,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 0.68
+  },
+  "yew-tee-primary-school": {
+    "school_name": "YEW TEE PRIMARY SCHOOL",
+    "address": "10 CHOA CHU KANG ST 64   ",
+    "lat": 1.396726034971953,
+    "lon": 103.7518179929614,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 0.73
+  },
+  "yio-chu-kang-primary-school": {
+    "school_name": "YIO CHU KANG PRIMARY SCHOOL",
+    "address": "1 HOUGANG STREET 51   ",
+    "lat": 1.37793264345277,
+    "lon": 103.885643682171,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 1.07
+  },
+  "yishun-innova-junior-college": {
+    "school_name": "YISHUN INNOVA JUNIOR COLLEGE",
+    "address": "3 YISHUN RING ROAD   ",
+    "lat": 1.424266925723368,
+    "lon": 103.8300317114899,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 4.97
+  },
+  "yangzheng-primary-school": {
+    "school_name": "YANGZHENG PRIMARY SCHOOL",
+    "address": "15 SERANGOON AVENUE 3   ",
+    "lat": 1.348976808384122,
+    "lon": 103.8684671299535,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 1.92
+  },
+  "yishun-primary-school": {
+    "school_name": "YISHUN PRIMARY SCHOOL",
+    "address": "500 YISHUN RING ROAD   ",
+    "lat": 1.43397617334964,
+    "lon": 103.8340507966576,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 5.87
+  },
+  "yishun-town-secondary-school": {
+    "school_name": "YISHUN TOWN SECONDARY SCHOOL",
+    "address": "6 YISHUN STREET 21   ",
+    "lat": 1.432321567173857,
+    "lon": 103.8380942263609,
+    "nearest_wbgt_station": "S141",
+    "nearest_station_name": "Yio Chu Kang Stadium",
+    "distance_km": 5.61
+  },
+  "yu-neng-primary-school": {
+    "school_name": "YU NENG PRIMARY SCHOOL",
+    "address": "56 BEDOK NORTH ST 3   ",
+    "lat": 1.333980378940721,
+    "lon": 103.9320150362959,
+    "nearest_wbgt_station": "S129",
+    "nearest_station_name": "Bedok North Street 2",
+    "distance_km": 1.25
+  },
+  "yuan-ching-secondary-school": {
+    "school_name": "YUAN CHING SECONDARY SCHOOL",
+    "address": "103 YUAN CHING ROAD   ",
+    "lat": 1.342006357644682,
+    "lon": 103.7208987043702,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 0.63
+  },
+  "yumin-primary-school": {
+    "school_name": "YUMIN PRIMARY SCHOOL",
+    "address": "3 TAMPINES STREET 21   ",
+    "lat": 1.351315698908628,
+    "lon": 103.9505510913724,
+    "nearest_wbgt_station": "S149",
+    "nearest_station_name": "Tampines Walk",
+    "distance_km": 1.33
+  },
+  "yuhua-secondary-school": {
+    "school_name": "YUHUA SECONDARY SCHOOL",
+    "address": "35 JURONG WEST STREET 41   ",
+    "lat": 1.347186268769677,
+    "lon": 103.7226872358383,
+    "nearest_wbgt_station": "S180",
+    "nearest_station_name": "Taman Jurong Greens",
+    "distance_km": 1.23
+  },
+  "yuying-secondary-school": {
+    "school_name": "YUYING SECONDARY SCHOOL",
+    "address": "47 HOUGANG AVENUE 1   ",
+    "lat": 1.35713595302468,
+    "lon": 103.8901947552866,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 1.32
+  },
+  "yusof-ishak-secondary-school": {
+    "school_name": "YUSOF ISHAK SECONDARY SCHOOL",
+    "address": "8 SUMANG WALK   ",
+    "lat": 1.406937024581786,
+    "lon": 103.8962751495709,
+    "nearest_wbgt_station": "S143",
+    "nearest_station_name": "Punggol North",
+    "distance_km": 1.04
+  },
+  "yuhua-primary-school": {
+    "school_name": "YUHUA PRIMARY SCHOOL",
+    "address": "158 JURONG EAST STREET 24   ",
+    "lat": 1.342919816220172,
+    "lon": 103.7408611488788,
+    "nearest_wbgt_station": "S153",
+    "nearest_station_name": "Bukit Batok Street 22",
+    "distance_km": 0.93
+  },
+  "zhenghua-secondary-school": {
+    "school_name": "ZHENGHUA SECONDARY SCHOOL",
+    "address": "62 Bukit Panjang Ring Road   ",
+    "lat": 1.388365834153536,
+    "lon": 103.7655106385263,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 1.78
+  },
+  "zhonghua-primary-school": {
+    "school_name": "ZHONGHUA PRIMARY SCHOOL",
+    "address": "12 SERANGOON AVENUE 4   ",
+    "lat": 1.360260724760189,
+    "lon": 103.8697125173825,
+    "nearest_wbgt_station": "S131",
+    "nearest_station_name": "Hougang Stadium",
+    "distance_km": 2.03
+  },
+  "zhonghua-secondary-school": {
+    "school_name": "ZHONGHUA SECONDARY SCHOOL",
+    "address": "13 SERANGOON AVENUE 3   ",
+    "lat": 1.348407208462093,
+    "lon": 103.869430481414,
+    "nearest_wbgt_station": "S128",
+    "nearest_station_name": "Bishan Street",
+    "distance_km": 2.04
+  },
+  "zhangde-primary-school": {
+    "school_name": "ZHANGDE PRIMARY SCHOOL",
+    "address": "51 Jalan Membina   ",
+    "lat": 1.284211538554757,
+    "lon": 103.8259518846363,
+    "nearest_wbgt_station": "S144",
+    "nearest_station_name": "Upper Pickering Street",
+    "distance_km": 2.35
+  },
+  "zhenghua-primary-school": {
+    "school_name": "ZHENGHUA PRIMARY SCHOOL",
+    "address": "9 Fajar Road   ",
+    "lat": 1.379428736170532,
+    "lon": 103.7697031720097,
+    "nearest_wbgt_station": "S140",
+    "nearest_station_name": "Choa Chu Kang Stadium",
+    "distance_km": 2.55
+  }
+}
