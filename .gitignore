@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+env/
+venv/
+*.egg-info/
+.DS_Store
+.idea/
+.vscode/
+*.log
+.ipynb_checkpoints/
+climateos_historical_dataset.csv
+*.tmp
